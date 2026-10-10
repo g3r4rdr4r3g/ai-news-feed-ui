@@ -2,27 +2,23 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Hundreds have been detained during an anti-CEC protest in Delhi, with leaders of the so-called 'Cockroach' group among those taken into custody. This has sparked political tensions, with the BJP critiquing the opposition's actions and the Supreme Court stepping in to address contempt pleas related to the metro shutdown."
+      "summary": "Major protests in Delhi led to the detention of over 1,500 people, including prominent leaders like Mamata Banerjee and Arvind Kejriwal, as they demonstrated against the government. The Supreme Court is set to hear pleas related to the detentions and metro closures."
     },
     {
       "genre": "Technology",
-      "summary": "Apple is hosting a surprise Smart Home event next week, expected to unveil new devices including a smart lock, thermostat, and doorbell. Additionally, there are notable developments in AI agents capable of functioning within text messaging platforms. Furthermore, Cloudflare has acquired Deno, aiming to enhance its Workers programming model."
-    },
-    {
-      "genre": "Business",
-      "summary": "Petra Power is focusing on modernizing energy solutions for data centers and defense vehicles, claiming to offer innovative fuel cell technology. Amazon has reshuffled its Alexa leadership while launching new high-end tablets, indicating a strategic pivot in its device portfolio."
-    },
-    {
-      "genre": "World",
-      "summary": "A blast at Riyadh airport has left multiple people wounded, drawing international concern. In Israel, a plot for a suicide attack by a Flydubai co-pilot has been revealed, linked to the events of September 11."
+      "summary": "Significant developments in technology include Apple's upcoming smart home event, Cloudflare's acquisition of Deno to enhance its programming model, and Google adjusting its Gemini tiers for AI users. Additionally, there are new AI messaging agents being introduced."
     },
     {
       "genre": "Law",
-      "summary": "The Delhi Riots case saw a conviction of former AAP councilor Tahir Hussain for abetment, with 12 others acquitted of charges. Furthermore, a contempt plea has been filed in the Supreme Court regarding arbitrary metro station closures and detentions during protests."
+      "summary": "In legal news, a Delhi court convicted Tahir Hussain for his role in the 2020 Delhi riots, while also rejecting a plea regarding police misconduct during recent protests."
     },
     {
-      "genre": "Health",
-      "summary": "A new discussion highlights the effects of psychedelics on brain transformation, exploring their potential in shifting consciousness and perceptions."
+      "genre": "World",
+      "summary": "A blast at Riyadh airport resulted in multiple injuries, highlighting security concerns in the region."
+    },
+    {
+      "genre": "Obituary",
+      "summary": "The computing pioneer Margaret Hamilton, who played a crucial role in developing software for NASA’s Apollo program, has passed away at the age of 90."
     }
   ]
 }
