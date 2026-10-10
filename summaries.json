@@ -2,23 +2,31 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Major protests in Delhi led to the detention of over 1,500 people, including prominent leaders like Mamata Banerjee and Arvind Kejriwal, as they demonstrated against the government. The Supreme Court is set to hear pleas related to the detentions and metro closures."
+      "summary": "A significant protest is unfolding in Delhi against the Chief Election Commissioner, with considerable police actions reported, including mass detentions of protesters led by Arvind Kejriwal."
     },
     {
       "genre": "Technology",
-      "summary": "Significant developments in technology include Apple's upcoming smart home event, Cloudflare's acquisition of Deno to enhance its programming model, and Google adjusting its Gemini tiers for AI users. Additionally, there are new AI messaging agents being introduced."
+      "summary": "Apple is set to host a surprise smart home event, possibly announcing new products; Cloudflare has acquired Deno to enhance its programming model; and Google is introducing upgrades to its TV streamer, expected to concern competitors like Apple."
+    },
+    {
+      "genre": "Business",
+      "summary": "Petra Power aims to modernize energy usage in data centers and defense vehicles, highlighting its efficient fuel cells amid rising electricity demands."
     },
     {
       "genre": "Law",
-      "summary": "In legal news, a Delhi court convicted Tahir Hussain for his role in the 2020 Delhi riots, while also rejecting a plea regarding police misconduct during recent protests."
+      "summary": "The Supreme Court of India is scheduled to hold a special session to address a contempt plea related to the recent closure of metro stations and mass detentions during protests."
     },
     {
       "genre": "World",
-      "summary": "A blast at Riyadh airport resulted in multiple injuries, highlighting security concerns in the region."
+      "summary": "Reports indicate that Riyadh's King Khalid International Airport has suffered another attack, raising concerns over security in the region."
     },
     {
-      "genre": "Obituary",
-      "summary": "The computing pioneer Margaret Hamilton, who played a crucial role in developing software for NASA’s Apollo program, has passed away at the age of 90."
+      "genre": "Science",
+      "summary": "A study explores the transformative effects of psychedelics on brains, suggesting a new perspective on its impact on human consciousness."
+    },
+    {
+      "genre": "Health",
+      "summary": "A court has convicted former AAP councillor Tahir Hussain for his role in the 2020 Delhi riots, amid broader legal actions related to the unrest."
     }
   ]
 }
