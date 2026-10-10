@@ -1,0 +1,24 @@
+{
+  "summaries": [
+    {
+      "genre": "Politics",
+      "summary": "Delhi has witnessed mass protests leading to the detention of hundreds, including leaders of the 'Cockroach' group, as calls for accountability over recent government actions escalate. The Supreme Court has set a hearing on allegations against the authorities regarding arbitrary metro station closures associated with the protests."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Apple is expected to unveil new smart home devices during its upcoming event, in partnership with LG, aimed at enhancing the Siri experience. Additionally, Cloudflare has acquired Deno in a move to improve its Workers programming framework."
+    },
+    {
+      "genre": "Health",
+      "summary": "Research highlights new insights into how psychedelics may transform brain functions, examining their potential impacts on cognition and perception."
+    },
+    {
+      "genre": "Business",
+      "summary": "Amazon's leadership overhaul for its Alexa division coincides with the launch of new high-end tablets, intensifying competition with Apple's offerings. In the investor community, a strategic shift is noted with the acquisition of Deno by Cloudflare to enhance their programming services."
+    },
+    {
+      "genre": "International",
+      "summary": "A blast at Riyadh's King Khalid International Airport has resulted in multiple injuries, with reports indicating the incident may be linked to ongoing conflict impacts in the region."
+    }
+  ]
+}

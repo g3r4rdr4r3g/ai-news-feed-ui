@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f7f8f5" />
+    <meta name="description" content="A concise daily news briefing, organized by topic." />
+    <title>Briefing — Daily news</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet" />
+    <style>
+      :root {
+        color-scheme: light;
+        --paper: #f7f8f5;
+        --ink: #18211f;
+        --muted: #707975;
+        --line: #dfe4df;
+        --green: #167a5b;
+        --orange: #e76b43;
+        --blue: #3978a8;
+        --yellow: #c59b18;
+        --pink: #bd577b;
+        --sans: "DM Sans", "Trebuchet MS", sans-serif;
+        --serif: "Newsreader", Georgia, serif;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: var(--sans);
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .page-shell {
+        width: min(1120px, calc(100% - 64px));
+        margin: 0 auto;
+      }
+
+      .topbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        min-height: 76px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .brand {
+        display: inline-flex;
+        align-items: center;
+        gap: 11px;
+        color: var(--ink);
+        font-size: 15px;
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .brand-mark {
+        position: relative;
+        display: grid;
+        width: 28px;
+        height: 28px;
+        place-items: center;
+        border-radius: 50%;
+        background: var(--green);
+      }
+
+      .brand-mark::before,
+      .brand-mark::after {
+        position: absolute;
+        width: 2px;
+        height: 12px;
+        content: "";
+        background: #fff;
+        transform: rotate(45deg);
+      }
+
+      .brand-mark::after {
+        height: 7px;
+        transform: rotate(-45deg);
+      }
+
+      .edition {
+        color: var(--muted);
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: .09em;
+        text-transform: uppercase;
+      }
+
+      main { padding: 56px 0 72px; }
+
+      .intro {
+        display: flex;
+        align-items: end;
+        justify-content: space-between;
+        gap: 24px;
+        padding-bottom: 32px;
+      }
+
+      .eyebrow {
+        margin: 0 0 10px;
+        color: var(--green);
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: .12em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        margin: 0;
+        font-family: var(--serif);
+        font-size: clamp(38px, 5vw, 58px);
+        font-weight: 500;
+        line-height: 1;
+      }
+
+      .intro-date {
+        margin: 0 0 4px;
+        color: var(--muted);
+        font-size: 13px;
+        white-space: nowrap;
+      }
+
+      .toolbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 18px;
+        padding: 16px 0;
+        border-top: 1px solid var(--line);
+        border-bottom: 1px solid var(--line);
+      }
+
+      .filters {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 7px;
+      }
+
+      .filter-button {
+        min-height: 34px;
+        padding: 0 12px;
+        border: 1px solid transparent;
+        border-radius: 3px;
+        background: transparent;
+        color: #58615d;
+        cursor: pointer;
+        font: 600 12px var(--sans);
+        transition: background-color 140ms ease, color 140ms ease, border-color 140ms ease;
+      }
+
+      .filter-button:hover { border-color: var(--line); color: var(--ink); }
+      .filter-button[aria-pressed="true"] { background: var(--ink); color: #fff; }
+
+      .search-wrap {
+        position: relative;
+        flex: 0 0 222px;
+      }
+
+      .search-wrap::before {
+        position: absolute;
+        top: 11px;
+        left: 12px;
+        width: 9px;
+        height: 9px;
+        border: 1.5px solid #7b8580;
+        border-radius: 50%;
+        content: "";
+      }
+
+      .search-wrap::after {
+        position: absolute;
+        top: 21px;
+        left: 22px;
+        width: 5px;
+        height: 1.5px;
+        background: #7b8580;
+        content: "";
+        transform: rotate(45deg);
+        transform-origin: left center;
+      }
+
+      .search {
+        width: 100%;
+        height: 36px;
+        padding: 0 12px 0 34px;
+        border: 1px solid var(--line);
+        border-radius: 3px;
+        outline: none;
+        background: #fff;
+        color: var(--ink);
+        font: 13px var(--sans);
+      }
+
+      .search:focus { border-color: var(--green); box-shadow: 0 0 0 2px #167a5b1f; }
+
+      .results-heading {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 22px 0 14px;
+      }
+
+      .results-heading h2 {
+        margin: 0;
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: .08em;
+        text-transform: uppercase;
+      }
+
+      .results-count { color: var(--muted); font-size: 12px; }
+
+      .story-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 14px;
+      }
+
+      .story {
+        position: relative;
+        min-height: 220px;
+        padding: 23px 25px 25px;
+        overflow: hidden;
+        border: 1px solid var(--line);
+        border-radius: 4px;
+        background: #fff;
+        animation: arrive 360ms both;
+      }
+
+      .story::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 3px;
+        height: 100%;
+        background: var(--accent, var(--green));
+        content: "";
+      }
+
+      .story-topline {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 27px;
+      }
+
+      .genre {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        color: var(--accent, var(--green));
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: .09em;
+        text-transform: uppercase;
+      }
+
+      .genre::before {
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+        background: currentColor;
+        content: "";
+      }
+
+      .story-number {
+        color: #a3aaa6;
+        font-family: var(--serif);
+        font-size: 15px;
+      }
+
+      .story p {
+        max-width: 58ch;
+        margin: 0;
+        font-family: var(--serif);
+        font-size: 21px;
+        line-height: 1.38;
+      }
+
+      .empty-state, .error-state {
+        grid-column: 1 / -1;
+        padding: 52px 20px;
+        border: 1px dashed var(--line);
+        color: var(--muted);
+        text-align: center;
+      }
+
+      .empty-state strong, .error-state strong {
+        display: block;
+        margin-bottom: 7px;
+        color: var(--ink);
+        font-family: var(--serif);
+        font-size: 23px;
+        font-weight: 500;
+      }
+
+      footer {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        padding: 18px 0 24px;
+        border-top: 1px solid var(--line);
+        color: var(--muted);
+        font-size: 11px;
+      }
+
+      @keyframes arrive {
+        from { opacity: 0; transform: translateY(7px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; transition-duration: .01ms !important; }
+      }
+
+      @media (max-width: 700px) {
+        .page-shell { width: min(100% - 36px, 560px); }
+        .topbar { min-height: 64px; }
+        main { padding-top: 40px; }
+        .intro { align-items: start; flex-direction: column; gap: 15px; padding-bottom: 25px; }
+        .intro-date { font-size: 12px; }
+        .toolbar { align-items: stretch; flex-direction: column-reverse; gap: 12px; }
+        .search-wrap { flex-basis: auto; }
+        .filters { gap: 4px; }
+        .filter-button { padding: 0 9px; }
+        .story-grid { grid-template-columns: 1fr; gap: 10px; }
+        .story { min-height: 0; padding: 19px 19px 22px; }
+        .story-topline { margin-bottom: 19px; }
+        .story p { font-size: 20px; }
+        footer { flex-direction: column; gap: 5px; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <a class="brand" href="./" aria-label="Briefing home">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>briefing</span>
+        </a>
+        <span class="edition">The daily edition</span>
+      </header>
+
+      <main>
+        <section class="intro" aria-labelledby="page-title">
+          <div>
+            <p class="eyebrow">Your daily read</p>
+            <h1 id="page-title">The day, at a glance.</h1>
+          </div>
+          <p class="intro-date" id="today-date"></p>
+        </section>
+
+        <section class="toolbar" aria-label="Filter news summaries">
+          <div class="filters" id="filters" aria-label="Filter by genre"></div>
+          <label class="search-wrap">
+            <input class="search" id="search" type="search" aria-label="Search summaries" placeholder="Search the briefing" autocomplete="off" />
+          </label>
+        </section>
+
+        <section aria-labelledby="summaries-title">
+          <div class="results-heading">
+            <h2 id="summaries-title">Today's summaries</h2>
+            <span class="results-count" id="results-count" aria-live="polite"></span>
+          </div>
+          <div class="story-grid" id="story-grid" aria-live="polite" aria-busy="true"></div>
+        </section>
+      </main>
+
+      <footer>
+        <span>Briefing</span>
+        <span>Independent summaries for a more informed day.</span>
+      </footer>
+    </div>
+
+    <script>
+      const palette = ["#167a5b", "#e76b43", "#3978a8", "#c59b18", "#bd577b", "#66734c"];
+      const grid = document.querySelector("#story-grid");
+      const filters = document.querySelector("#filters");
+      const search = document.querySelector("#search");
+      const resultsCount = document.querySelector("#results-count");
+      let summaries = [];
+      let activeGenre = "All topics";
+
+      document.querySelector("#today-date").textContent = new Intl.DateTimeFormat("en", {
+        weekday: "long",
+        month: "long",
+        day: "numeric",
+        year: "numeric"
+      }).format(new Date());
+
+      function renderFilters() {
+        const genres = ["All topics", ...new Set(summaries.map(({ genre }) => genre))];
+        filters.replaceChildren(...genres.map((genre) => {
+          const button = document.createElement("button");
+          button.className = "filter-button";
+          button.type = "button";
+          button.textContent = genre;
+          button.setAttribute("aria-pressed", String(genre === activeGenre));
+          button.addEventListener("click", () => {
+            activeGenre = genre;
+            renderFilters();
+            renderStories();
+          });
+          return button;
+        }));
+      }
+
+      function renderStories() {
+        const query = search.value.trim().toLocaleLowerCase();
+        const visible = summaries.filter(({ genre, summary }) =>
+          (activeGenre === "All topics" || genre === activeGenre) &&
+          (!query || `${genre} ${summary}`.toLocaleLowerCase().includes(query))
+        );
+
+        resultsCount.textContent = `${visible.length} ${visible.length === 1 ? "story" : "stories"}`;
+        if (!visible.length) {
+          const empty = document.createElement("div");
+          empty.className = "empty-state";
+          empty.innerHTML = "<strong>No stories found</strong>Try another topic or search term.";
+          grid.replaceChildren(empty);
+          return;
+        }
+
+        grid.replaceChildren(...visible.map(({ genre, summary }, index) => {
+          const article = document.createElement("article");
+          article.className = "story";
+          article.style.setProperty("--accent", palette[summaries.findIndex((item) => item.genre === genre) % palette.length]);
+
+          const topline = document.createElement("div");
+          topline.className = "story-topline";
+          const category = document.createElement("span");
+          category.className = "genre";
+          category.textContent = genre;
+          const number = document.createElement("span");
+          number.className = "story-number";
+          number.textContent = String(index + 1).padStart(2, "0");
+          topline.append(category, number);
+
+          const text = document.createElement("p");
+          text.textContent = summary;
+          article.append(topline, text);
+          return article;
+        }));
+      }
+
+      search.addEventListener("input", renderStories);
+
+      fetch("./summaries.json")
+        .then((response) => {
+          if (!response.ok) throw new Error(`Could not load summaries (${response.status})`);
+          return response.json();
+        })
+        .then((data) => {
+          if (!Array.isArray(data.summaries)) throw new Error("The summaries file has an invalid format.");
+          summaries = data.summaries.filter((item) => item && typeof item.genre === "string" && typeof item.summary === "string");
+          renderFilters();
+          renderStories();
+          grid.setAttribute("aria-busy", "false");
+        })
+        .catch((error) => {
+          const message = document.createElement("div");
+          message.className = "error-state";
+          const heading = document.createElement("strong");
+          heading.textContent = "Today's briefing isn't available.";
+          const detail = document.createElement("span");
+          detail.textContent = error.message;
+          message.append(heading, detail);
+          grid.replaceChildren(message);
+          grid.setAttribute("aria-busy", "false");
+          resultsCount.textContent = "";
+        });
+    </script>
+  </body>
+</html>
