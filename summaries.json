@@ -1,32 +1,16 @@
 {
   "summaries": [
     {
-      "genre": "Politics",
-      "summary": "A significant protest is unfolding in Delhi against the Chief Election Commissioner, with considerable police actions reported, including mass detentions of protesters led by Arvind Kejriwal."
+      "genre": "World",
+      "summary": "The world has condemned a Houthi missile attack on Saudi Arabia's Riyadh airport that resulted in 12 fatalities and over 300 injuries. Global reactions include strong disapproval from countries like India, amid rising tensions."
     },
     {
       "genre": "Technology",
-      "summary": "Apple is set to host a surprise smart home event, possibly announcing new products; Cloudflare has acquired Deno to enhance its programming model; and Google is introducing upgrades to its TV streamer, expected to concern competitors like Apple."
+      "summary": "Apple is set to enhance its podcast features through an acqui-hire of the startup Huxe, which specializes in AI technology for generating personalized podcasts. Microsoft’s CEO has called for an assessment of AI trust architectures, highlighting the need for safeguards in AI development."
     },
     {
-      "genre": "Business",
-      "summary": "Petra Power aims to modernize energy usage in data centers and defense vehicles, highlighting its efficient fuel cells amid rising electricity demands."
-    },
-    {
-      "genre": "Law",
-      "summary": "The Supreme Court of India is scheduled to hold a special session to address a contempt plea related to the recent closure of metro stations and mass detentions during protests."
-    },
-    {
-      "genre": "World",
-      "summary": "Reports indicate that Riyadh's King Khalid International Airport has suffered another attack, raising concerns over security in the region."
-    },
-    {
-      "genre": "Science",
-      "summary": "A study explores the transformative effects of psychedelics on brains, suggesting a new perspective on its impact on human consciousness."
-    },
-    {
-      "genre": "Health",
-      "summary": "A court has convicted former AAP councillor Tahir Hussain for his role in the 2020 Delhi riots, amid broader legal actions related to the unrest."
+      "genre": "Politics",
+      "summary": "In India, several leaders and activists have been detained during protests against the Central Election Commission, prompting a Supreme Court hearing. The court is addressing concerns over detentions and curfews related to the protests."
     }
   ]
 }
