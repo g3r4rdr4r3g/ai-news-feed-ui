@@ -2,15 +2,31 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Members and leaders of the CJP (Citizens for Justice and Peace) have faced preventive arrest as protests continue in Delhi, with legal actions being taken against police conduct during these demonstrations."
+      "summary": "Delhi Police released a video of informing Abhijeet Dipke about his grandmother's death while he was in detention. Dipke's family claims the police delayed his release, preventing him from attending the funeral. Additionally, leaders from the CJP party were released after a police crackdown amid ongoing protests."
     },
     {
       "genre": "Technology",
-      "summary": "Microsoft has introduced new hardware and updates for its Surface Laptop and AI technologies, while ongoing acquisitions and innovations in AI and machine learning are highlighted by companies like Apple and Cloudflare."
+      "summary": "Microsoft’s CEO emphasized the need for AI models to have an 'emergency brake' to ensure trust and safety in AI usage. Cloudflare has acquired Deno to enhance its Workers programming model, while Apple revealed its hiring and licensing deal with podcast startup Huxe, aimed at entering the AI-generated podcasting market."
     },
     {
       "genre": "World",
-      "summary": "The international community has condemned a Houthi missile attack on Riyadh airport, which resulted in several casualties and extensive damage."
+      "summary": "A deadly strike on Riyadh's airport in Saudi Arabia killed at least 12, with the Houthis warning against using Saudis airports. The attack has caused significant tension, prompting Saudi Arabia to threaten a 'decisive' response."
+    },
+    {
+      "genre": "Business",
+      "summary": "Apple is rumored to announce a partnership with ADT for security technologies, while Microsoft is enticing MacBook Pro owners with offers of up to $1,000 to switch to their Surface Laptop Ultra."
+    },
+    {
+      "genre": "Health",
+      "summary": "The UN rights office in India is calling for the release of protesters who have been arbitrarily detained amid ongoing civil unrest."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "A leaker of the highly anticipated 'GTA 6' claims to possess a full build of the game and threatens to release it unless Take-Two Interactive issues an apology."
+    },
+    {
+      "genre": "Science",
+      "summary": "Margaret Hamilton, a pivotal figure behind NASA's Apollo program, has passed away at the age of 90, leaving behind a legacy in software engineering that shaped space exploration."
     }
   ]
 }
