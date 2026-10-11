@@ -1,16 +1,16 @@
 {
   "summaries": [
     {
-      "genre": "World",
-      "summary": "The world has condemned a Houthi missile attack on Saudi Arabia's Riyadh airport that resulted in 12 fatalities and over 300 injuries. Global reactions include strong disapproval from countries like India, amid rising tensions."
+      "genre": "Politics",
+      "summary": "Members and leaders of the CJP (Citizens for Justice and Peace) have faced preventive arrest as protests continue in Delhi, with legal actions being taken against police conduct during these demonstrations."
     },
     {
       "genre": "Technology",
-      "summary": "Apple is set to enhance its podcast features through an acqui-hire of the startup Huxe, which specializes in AI technology for generating personalized podcasts. Microsoft’s CEO has called for an assessment of AI trust architectures, highlighting the need for safeguards in AI development."
+      "summary": "Microsoft has introduced new hardware and updates for its Surface Laptop and AI technologies, while ongoing acquisitions and innovations in AI and machine learning are highlighted by companies like Apple and Cloudflare."
     },
     {
-      "genre": "Politics",
-      "summary": "In India, several leaders and activists have been detained during protests against the Central Election Commission, prompting a Supreme Court hearing. The court is addressing concerns over detentions and curfews related to the protests."
+      "genre": "World",
+      "summary": "The international community has condemned a Houthi missile attack on Riyadh airport, which resulted in several casualties and extensive damage."
     }
   ]
 }
