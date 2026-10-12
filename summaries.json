@@ -1,48 +1,28 @@
 {
   "summaries": [
     {
-      "genre": "World",
-      "summary": "Yemen's conflict escalates as Houthi forces attack Saudi Arabia's airport, prompting concerns of a broader military conflict and further violence."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Apple is gearing up to launch new products including the Apple TV 4K, HomeView, and HomePod Mini, with leaked details and features circulating."
-    },
-    {
       "genre": "Politics",
-      "summary": "Protests continue in Delhi against the Chief Election Commissioner, with opposition leaders marching towards the Supreme Court amid heightened security."
-    },
-    {
-      "genre": "Environment",
-      "summary": "Severe floods in Nepal have caused significant destruction, sweeping away homes and leading to evacuations, as a warning is issued for further potential flooding."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "Aaron Sorkin's new film, 'Social Reckoning,' opens to disappointing reviews as it faces challenges in portraying tech industry narratives."
+      "summary": "Indian opposition leaders, including Rahul Gandhi, protested in New Delhi demanding the resignation of the Chief Election Commissioner. The protests coincide with legal actions taken against the Election Commission."
     },
     {
       "genre": "Health",
-      "summary": "India reports two missing seafarers following a drone attack on a tanker, raising international safety concerns for maritime navigation."
-    },
-    {
-      "genre": "Law",
-      "summary": "Mass detentions associated with protests in Delhi prompt legal scrutiny, with calls for Supreme Court intervention regarding the rights of peaceful demonstrators."
-    },
-    {
-      "genre": "Business",
-      "summary": "The ongoing discussions about the implications of data center moratoriums in the AI sector highlight a potential communication problem within the industry."
-    },
-    {
-      "genre": "Sports",
-      "summary": "A NASCAR incident has drawn attention as contact between two drivers leads to a dramatic spin at a recent race."
-    },
-    {
-      "genre": "Science",
-      "summary": "The world remembers Margaret Hamilton, a computing pioneer crucial to the Apollo program, who passed away at the age of 90."
+      "summary": "Google launched the Fitbit Edge, a new fitness tracker featuring health capabilities and a replaceable battery, aiming to bridge the gap between the Fitbit Air and Pixel Watch."
     },
     {
       "genre": "Technology",
-      "summary": "The gaming community is abuzz with leaked gameplay footage and threats regarding the upcoming release of Grand Theft Auto VI."
+      "summary": "Various technology articles discuss advancements in AI tools for public relations, developments from TechCrunch Disrupt 2026, and new product launches such as Dell's Googlebook and Samsung's Galaxy S24 update."
+    },
+    {
+      "genre": "World",
+      "summary": "In a significant geopolitical development, Russia proposed a one-day ceasefire contingent upon Ukraine's agreement to hold elections, while rejecting a longer truce suggested by Ukrainian President Zelenskyy."
+    },
+    {
+      "genre": "Science",
+      "summary": "Robert E. Hall and Michael Woodford were awarded the Nobel Prize in Economic Sciences for their contributions to understanding economic stabilization."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "The popular game 'No Man’s Sky' will soon be available on iPhone and iPad, coinciding with Apple's App Store celebrating indie games."
     }
   ]
 }
