@@ -1,32 +1,48 @@
 {
   "summaries": [
     {
-      "genre": "Politics",
-      "summary": "Delhi Police released a video of informing Abhijeet Dipke about his grandmother's death while he was in detention. Dipke's family claims the police delayed his release, preventing him from attending the funeral. Additionally, leaders from the CJP party were released after a police crackdown amid ongoing protests."
+      "genre": "World",
+      "summary": "Yemen's conflict escalates as Houthi forces attack Saudi Arabia's airport, prompting concerns of a broader military conflict and further violence."
     },
     {
       "genre": "Technology",
-      "summary": "Microsoft’s CEO emphasized the need for AI models to have an 'emergency brake' to ensure trust and safety in AI usage. Cloudflare has acquired Deno to enhance its Workers programming model, while Apple revealed its hiring and licensing deal with podcast startup Huxe, aimed at entering the AI-generated podcasting market."
+      "summary": "Apple is gearing up to launch new products including the Apple TV 4K, HomeView, and HomePod Mini, with leaked details and features circulating."
     },
     {
-      "genre": "World",
-      "summary": "A deadly strike on Riyadh's airport in Saudi Arabia killed at least 12, with the Houthis warning against using Saudis airports. The attack has caused significant tension, prompting Saudi Arabia to threaten a 'decisive' response."
+      "genre": "Politics",
+      "summary": "Protests continue in Delhi against the Chief Election Commissioner, with opposition leaders marching towards the Supreme Court amid heightened security."
     },
     {
-      "genre": "Business",
-      "summary": "Apple is rumored to announce a partnership with ADT for security technologies, while Microsoft is enticing MacBook Pro owners with offers of up to $1,000 to switch to their Surface Laptop Ultra."
-    },
-    {
-      "genre": "Health",
-      "summary": "The UN rights office in India is calling for the release of protesters who have been arbitrarily detained amid ongoing civil unrest."
+      "genre": "Environment",
+      "summary": "Severe floods in Nepal have caused significant destruction, sweeping away homes and leading to evacuations, as a warning is issued for further potential flooding."
     },
     {
       "genre": "Entertainment",
-      "summary": "A leaker of the highly anticipated 'GTA 6' claims to possess a full build of the game and threatens to release it unless Take-Two Interactive issues an apology."
+      "summary": "Aaron Sorkin's new film, 'Social Reckoning,' opens to disappointing reviews as it faces challenges in portraying tech industry narratives."
+    },
+    {
+      "genre": "Health",
+      "summary": "India reports two missing seafarers following a drone attack on a tanker, raising international safety concerns for maritime navigation."
+    },
+    {
+      "genre": "Law",
+      "summary": "Mass detentions associated with protests in Delhi prompt legal scrutiny, with calls for Supreme Court intervention regarding the rights of peaceful demonstrators."
+    },
+    {
+      "genre": "Business",
+      "summary": "The ongoing discussions about the implications of data center moratoriums in the AI sector highlight a potential communication problem within the industry."
+    },
+    {
+      "genre": "Sports",
+      "summary": "A NASCAR incident has drawn attention as contact between two drivers leads to a dramatic spin at a recent race."
     },
     {
       "genre": "Science",
-      "summary": "Margaret Hamilton, a pivotal figure behind NASA's Apollo program, has passed away at the age of 90, leaving behind a legacy in software engineering that shaped space exploration."
+      "summary": "The world remembers Margaret Hamilton, a computing pioneer crucial to the Apollo program, who passed away at the age of 90."
+    },
+    {
+      "genre": "Technology",
+      "summary": "The gaming community is abuzz with leaked gameplay footage and threats regarding the upcoming release of Grand Theft Auto VI."
     }
   ]
 }
