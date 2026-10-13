@@ -2,27 +2,27 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Indian opposition leaders, including Rahul Gandhi, protested in New Delhi demanding the resignation of the Chief Election Commissioner. The protests coincide with legal actions taken against the Election Commission."
-    },
-    {
-      "genre": "Health",
-      "summary": "Google launched the Fitbit Edge, a new fitness tracker featuring health capabilities and a replaceable battery, aiming to bridge the gap between the Fitbit Air and Pixel Watch."
+      "summary": "Protests against the election commission are escalating in Delhi, resulting in the detention of several leaders. The Delhi High Court is set to hear legal challenges concerning the protests."
     },
     {
       "genre": "Technology",
-      "summary": "Various technology articles discuss advancements in AI tools for public relations, developments from TechCrunch Disrupt 2026, and new product launches such as Dell's Googlebook and Samsung's Galaxy S24 update."
+      "summary": "Meta has released its new frontier model, Muse Wonder, aimed at improving performance on complex tasks. Additionally, various news on Apple's upcoming product releases, including foldable iPhones and Fitbit devices, have surfaced."
     },
     {
       "genre": "World",
-      "summary": "In a significant geopolitical development, Russia proposed a one-day ceasefire contingent upon Ukraine's agreement to hold elections, while rejecting a longer truce suggested by Ukrainian President Zelenskyy."
+      "summary": "Houthi missile attacks continue to target Saudi Arabia's capital, Riyadh, for a third consecutive day, raising concerns over the nation’s military capabilities and early warning systems."
     },
     {
-      "genre": "Science",
-      "summary": "Robert E. Hall and Michael Woodford were awarded the Nobel Prize in Economic Sciences for their contributions to understanding economic stabilization."
+      "genre": "Law",
+      "summary": "The Supreme Court has flagged multiple defects in Rahul Gandhi's petition, affecting its hearing schedule. The court also faces challenges related to a request from the INDIA bloc seeking to halt legal proceedings regarding electoral practices."
+    },
+    {
+      "genre": "Health",
+      "summary": "The launch of the Fitbit Edge reflects Google's ongoing push into health monitoring, positioning it as a new competitor in the wearable fitness tracker market."
     },
     {
       "genre": "Entertainment",
-      "summary": "The popular game 'No Man’s Sky' will soon be available on iPhone and iPad, coinciding with Apple's App Store celebrating indie games."
+      "summary": "Leaked videos related to the upcoming 'GTA 6' have emerged, causing a stir in the gaming community, as threats of releasing more unauthorized content continue."
     }
   ]
 }
