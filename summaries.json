@@ -2,27 +2,27 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Protests against the election commission are escalating in Delhi, resulting in the detention of several leaders. The Delhi High Court is set to hear legal challenges concerning the protests."
+      "summary": "Amit Shah comments on the Congress party's need for introspection amidst ongoing protests by the CJP leaders, who were sent to judicial custody for trespassing. The backdrop highlights political tensions in India."
+    },
+    {
+      "genre": "Business",
+      "summary": "Apple is launching a new smart home product line including a HomeView tablet, smart security features, and other accessories aimed at enhancing home connectivity and automation."
     },
     {
       "genre": "Technology",
-      "summary": "Meta has released its new frontier model, Muse Wonder, aimed at improving performance on complex tasks. Additionally, various news on Apple's upcoming product releases, including foldable iPhones and Fitbit devices, have surfaced."
+      "summary": "Various AI software developments showcase the transformative potential of AI in everyday applications, including personal assistants and productivity tools like AI-cloned versions of Microsoft Office."
+    },
+    {
+      "genre": "Science",
+      "summary": "A new vision-restoring chip has been successfully implanted in a patient with Stargardt disease, marking a significant milestone in medical technology and brain-computer interface advancements."
     },
     {
       "genre": "World",
-      "summary": "Houthi missile attacks continue to target Saudi Arabia's capital, Riyadh, for a third consecutive day, raising concerns over the nation’s military capabilities and early warning systems."
-    },
-    {
-      "genre": "Law",
-      "summary": "The Supreme Court has flagged multiple defects in Rahul Gandhi's petition, affecting its hearing schedule. The court also faces challenges related to a request from the INDIA bloc seeking to halt legal proceedings regarding electoral practices."
+      "summary": "Iran intensifies its military actions threatening shipping routes in the Strait of Hormuz, amidst rising geopolitical tensions ahead of an upcoming US election."
     },
     {
       "genre": "Health",
-      "summary": "The launch of the Fitbit Edge reflects Google's ongoing push into health monitoring, positioning it as a new competitor in the wearable fitness tracker market."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "Leaked videos related to the upcoming 'GTA 6' have emerged, causing a stir in the gaming community, as threats of releasing more unauthorized content continue."
+      "summary": "A tragic boat capsizing incident in Bihar has claimed the lives of over a dozen children, highlighting the ongoing public safety concerns in the region."
     }
   ]
 }
