@@ -2,27 +2,31 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Amit Shah comments on the Congress party's need for introspection amidst ongoing protests by the CJP leaders, who were sent to judicial custody for trespassing. The backdrop highlights political tensions in India."
-    },
-    {
-      "genre": "Business",
-      "summary": "Apple is launching a new smart home product line including a HomeView tablet, smart security features, and other accessories aimed at enhancing home connectivity and automation."
+      "summary": "CJP leaders Saurav Das and Ashutosh Ranka have been jailed following protests, with significant reactions from political figures like Rahul Gandhi expressing support and condemnation of the government's actions."
     },
     {
       "genre": "Technology",
-      "summary": "Various AI software developments showcase the transformative potential of AI in everyday applications, including personal assistants and productivity tools like AI-cloned versions of Microsoft Office."
-    },
-    {
-      "genre": "Science",
-      "summary": "A new vision-restoring chip has been successfully implanted in a patient with Stargardt disease, marking a significant milestone in medical technology and brain-computer interface advancements."
-    },
-    {
-      "genre": "World",
-      "summary": "Iran intensifies its military actions threatening shipping routes in the Strait of Hormuz, amidst rising geopolitical tensions ahead of an upcoming US election."
+      "summary": "Apple's new HomeView tablet aims to integrate smart home technology, while the Apple TV 4K features advancements in AI with Siri capabilities. New releases from companies like Scimplify aim to innovate in materials management and simplify production processes with AI."
     },
     {
       "genre": "Health",
-      "summary": "A tragic boat capsizing incident in Bihar has claimed the lives of over a dozen children, highlighting the ongoing public safety concerns in the region."
+      "summary": "The court sentenced Muskaan Rastogi and her lover to death for their role in a notorious murder case, while a science company successfully implanted a vision-restoring chip in a patient."
+    },
+    {
+      "genre": "Law",
+      "summary": "The Saudi Supreme Court overturned a death sentence for a migrant worker over a controversial social media comment, reflecting legal shifts regarding blasphemy laws."
+    },
+    {
+      "genre": "World",
+      "summary": "In an alarming report, the U.S. Justice Department stated that North Korean hackers have infiltrated numerous American companies, warning of potential cybersecurity risks."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "The release of new gaming controllers from 8BitDo highlights innovation in the gaming industry, catering to enthusiasts looking for improved gaming experiences."
+    },
+    {
+      "genre": "Business",
+      "summary": "Scimplify has raised $25 million to expand its business in critical materials while competing against dominant players in the market."
     }
   ]
 }
