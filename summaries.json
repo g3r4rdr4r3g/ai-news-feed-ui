@@ -1,28 +1,40 @@
 {
   "summaries": [
     {
-      "genre": "Politics",
-      "summary": "A 19-year-old was arrested in Illinois for planning a mass shooting at a Hindu temple, which was thwarted when his rifle jammed. The incident drew attention from various media and responses from India regarding the swift action taken."
+      "genre": "Law",
+      "summary": "The Supreme Court of India has issued notices regarding a petition by opposition leaders, including Rahul Gandhi, related to voter irregularities during a protest march. The court emphasized the independence of the judiciary in response to the situation."
     },
     {
       "genre": "Technology",
-      "summary": "Figma announced new features for its platform and launched code layers in open beta. Apple introduced the HomeView tablet and new apps, while Epic Games revealed a new launcher for its games, claiming improved speed."
+      "summary": "Apple has collaborated with Schneider to produce a new smart thermostat aimed at helping users reduce their electric bills. Additionally, features related to smart home devices from Apple, including a new home display hub, are also in focus."
     },
     {
       "genre": "World",
-      "summary": "Three Indian nationals were killed in a building fire in Germany, with a resident arrested under suspicion of murder. This incident highlights ongoing safety concerns in residential areas."
+      "summary": "A tragic incident in Pakistan has resulted in the deaths of over 30 children due to a school roof collapse, leading to the arrest of the school's owner. This incident has raised significant concerns about safety regulations."
     },
     {
-      "genre": "Law",
-      "summary": "The DMRC submitted an affidavit to the Supreme Court claiming that recent protests have led to a reduction in metro traffic. The case also involves hearings concerning previous detentions during protests."
-    },
-    {
-      "genre": "Science",
-      "summary": "Intero Biosystems is innovating drug testing alternatives by providing lab-grown human intestines as substitutes for animal testing, aiming to help drug manufacturers align with evolving regulatory demands."
+      "genre": "Business",
+      "summary": "Discussions regarding a US-India trade deal are progressing, with completion of the first tranche expected soon. Both countries aim to operationalize the agreement, focusing on creating competitive advantages for India."
     },
     {
       "genre": "Entertainment",
-      "summary": "The announcement of a new expansion pass for Fire Emblem: Fortune's Weave includes the launch of Wave 1, generating buzz among fans of the game franchise."
+      "summary": "YouTube has introduced new labeling for AI-generated music across its platforms, responding to demands for transparency among listeners about the origins of songs. This move is part of a broader trend in the music industry to address the rise of AI-generated content."
+    },
+    {
+      "genre": "Health",
+      "summary": "A 19-year-old from Illinois has been arrested for allegedly planning an attack on a Hindu place of worship. This incident is part of ongoing concerns regarding hate crimes and violence against specific communities in the U.S."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Figma announced new features to enhance the functionality of its design platform, including updates that define agent roles and a beta release for new code layers."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Ricursive Intelligence is focusing on AI-designed chips to tackle the compute crisis, seeking to automate and improve the chip design process."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Citizen Lab has reported that governments are using online advertisements to deploy spyware on individuals' devices, highlighting serious concerns about privacy and security."
     }
   ]
 }
