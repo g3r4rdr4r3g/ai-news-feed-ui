@@ -2,31 +2,27 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "CJP leaders Saurav Das and Ashutosh Ranka have been jailed following protests, with significant reactions from political figures like Rahul Gandhi expressing support and condemnation of the government's actions."
+      "summary": "A 19-year-old was arrested in Illinois for planning a mass shooting at a Hindu temple, which was thwarted when his rifle jammed. The incident drew attention from various media and responses from India regarding the swift action taken."
     },
     {
       "genre": "Technology",
-      "summary": "Apple's new HomeView tablet aims to integrate smart home technology, while the Apple TV 4K features advancements in AI with Siri capabilities. New releases from companies like Scimplify aim to innovate in materials management and simplify production processes with AI."
-    },
-    {
-      "genre": "Health",
-      "summary": "The court sentenced Muskaan Rastogi and her lover to death for their role in a notorious murder case, while a science company successfully implanted a vision-restoring chip in a patient."
-    },
-    {
-      "genre": "Law",
-      "summary": "The Saudi Supreme Court overturned a death sentence for a migrant worker over a controversial social media comment, reflecting legal shifts regarding blasphemy laws."
+      "summary": "Figma announced new features for its platform and launched code layers in open beta. Apple introduced the HomeView tablet and new apps, while Epic Games revealed a new launcher for its games, claiming improved speed."
     },
     {
       "genre": "World",
-      "summary": "In an alarming report, the U.S. Justice Department stated that North Korean hackers have infiltrated numerous American companies, warning of potential cybersecurity risks."
+      "summary": "Three Indian nationals were killed in a building fire in Germany, with a resident arrested under suspicion of murder. This incident highlights ongoing safety concerns in residential areas."
+    },
+    {
+      "genre": "Law",
+      "summary": "The DMRC submitted an affidavit to the Supreme Court claiming that recent protests have led to a reduction in metro traffic. The case also involves hearings concerning previous detentions during protests."
+    },
+    {
+      "genre": "Science",
+      "summary": "Intero Biosystems is innovating drug testing alternatives by providing lab-grown human intestines as substitutes for animal testing, aiming to help drug manufacturers align with evolving regulatory demands."
     },
     {
       "genre": "Entertainment",
-      "summary": "The release of new gaming controllers from 8BitDo highlights innovation in the gaming industry, catering to enthusiasts looking for improved gaming experiences."
-    },
-    {
-      "genre": "Business",
-      "summary": "Scimplify has raised $25 million to expand its business in critical materials while competing against dominant players in the market."
+      "summary": "The announcement of a new expansion pass for Fire Emblem: Fortune's Weave includes the launch of Wave 1, generating buzz among fans of the game franchise."
     }
   ]
 }
