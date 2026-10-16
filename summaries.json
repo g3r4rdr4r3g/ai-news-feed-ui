@@ -1,40 +1,40 @@
 {
   "summaries": [
     {
-      "genre": "Law",
-      "summary": "The Supreme Court of India has issued notices regarding a petition by opposition leaders, including Rahul Gandhi, related to voter irregularities during a protest march. The court emphasized the independence of the judiciary in response to the situation."
+      "genre": "Politics",
+      "summary": "A court has upheld the right to protest for the CJP organization despite a police crackdown, as tensions rise ahead of planned demonstrations in India."
     },
     {
       "genre": "Technology",
-      "summary": "Apple has collaborated with Schneider to produce a new smart thermostat aimed at helping users reduce their electric bills. Additionally, features related to smart home devices from Apple, including a new home display hub, are also in focus."
+      "summary": "Apple's HomeView display is critiqued and compared with similar smart home devices, while new features for ChatGPT enable it to access Chrome tabs."
     },
     {
-      "genre": "World",
-      "summary": "A tragic incident in Pakistan has resulted in the deaths of over 30 children due to a school roof collapse, leading to the arrest of the school's owner. This incident has raised significant concerns about safety regulations."
-    },
-    {
-      "genre": "Business",
-      "summary": "Discussions regarding a US-India trade deal are progressing, with completion of the first tranche expected soon. Both countries aim to operationalize the agreement, focusing on creating competitive advantages for India."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "YouTube has introduced new labeling for AI-generated music across its platforms, responding to demands for transparency among listeners about the origins of songs. This move is part of a broader trend in the music industry to address the rise of AI-generated content."
+      "genre": "Science",
+      "summary": "Google's Android earthquake alerts have been updated and expanded to cover over 200 regions, enhancing user preparedness for natural disasters."
     },
     {
       "genre": "Health",
-      "summary": "A 19-year-old from Illinois has been arrested for allegedly planning an attack on a Hindu place of worship. This incident is part of ongoing concerns regarding hate crimes and violence against specific communities in the U.S."
+      "summary": "A tragic school shooting in Oregon has left multiple casualties, including children, leading to heightened discussions about school safety."
+    },
+    {
+      "genre": "World",
+      "summary": "President Macron emphasizes the importance of providing Ukraine with all necessary means to defend its population and infrastructure amid escalating conflict."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "The score for the upcoming game Grand Theft Auto VI has been composed by Justice, building anticipation for the game's release."
+    },
+    {
+      "genre": "Law",
+      "summary": "A plotting incident targeting a Hindu temple in the US was thwarted, highlighting rising concerns over social tensions and safety."
+    },
+    {
+      "genre": "Business",
+      "summary": "Intero Biosystems won the Startup Battlefield competition at TechCrunch Disrupt 2026, showcasing innovation in the startup landscape."
     },
     {
       "genre": "Technology",
-      "summary": "Figma announced new features to enhance the functionality of its design platform, including updates that define agent roles and a beta release for new code layers."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Ricursive Intelligence is focusing on AI-designed chips to tackle the compute crisis, seeking to automate and improve the chip design process."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Citizen Lab has reported that governments are using online advertisements to deploy spyware on individuals' devices, highlighting serious concerns about privacy and security."
+      "summary": "KDE celebrates its 30th anniversary with the launch of Plasma 6.8, marking significant upgrades and the end of support for X11."
     }
   ]
 }
