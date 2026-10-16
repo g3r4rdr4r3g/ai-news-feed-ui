@@ -2,39 +2,43 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "A court has upheld the right to protest for the CJP organization despite a police crackdown, as tensions rise ahead of planned demonstrations in India."
+      "summary": "The article discusses the return of India's 'cockroach' protesters despite police crackdowns surrounding the upcoming Tiranga march called by the CJP."
     },
     {
       "genre": "Technology",
-      "summary": "Apple's HomeView display is critiqued and compared with similar smart home devices, while new features for ChatGPT enable it to access Chrome tabs."
-    },
-    {
-      "genre": "Science",
-      "summary": "Google's Android earthquake alerts have been updated and expanded to cover over 200 regions, enhancing user preparedness for natural disasters."
-    },
-    {
-      "genre": "Health",
-      "summary": "A tragic school shooting in Oregon has left multiple casualties, including children, leading to heightened discussions about school safety."
-    },
-    {
-      "genre": "World",
-      "summary": "President Macron emphasizes the importance of providing Ukraine with all necessary means to defend its population and infrastructure amid escalating conflict."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "The score for the upcoming game Grand Theft Auto VI has been composed by Justice, building anticipation for the game's release."
+      "summary": "Experts have voted to stop adding leap seconds to clock time, impacting how we keep time with potentially significant implications for technology and big tech companies. Google also updates its Android earthquake alerts, expanding features and coverage."
     },
     {
       "genre": "Law",
-      "summary": "A plotting incident targeting a Hindu temple in the US was thwarted, highlighting rising concerns over social tensions and safety."
+      "summary": "Nikhil Wagle and Sanjay Raut have received contempt notices from the Supreme Court over remarks made against the Chief Justice. Former Kerala Chief Minister Pinarayi Vijayan is challenging a Kerala High Court direction regarding a money-laundering case."
+    },
+    {
+      "genre": "Health",
+      "summary": "In a murder case, authorities revealed that a snake was used as an alibi, but it was later discovered that the snake had been defanged."
     },
     {
       "genre": "Business",
-      "summary": "Intero Biosystems won the Startup Battlefield competition at TechCrunch Disrupt 2026, showcasing innovation in the startup landscape."
+      "summary": "Intero Biosystems took home the grand prize at TechCrunch Disrupt 2026, amid discussions on the impact of AI on venture capital practices and insight into product development from Amazon devices chief."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "The foiled mass shooting plot at a Hindu temple in the US has sparked outrage among lawmakers."
+    },
+    {
+      "genre": "Science",
+      "summary": "Meta has launched an open-weight AI model that is capable of running on Macs, showcasing advancements in AI technology."
+    },
+    {
+      "genre": "Environment",
+      "summary": "A container ship has sunk in the Strait of Hormuz after being hit by a projectile, highlighting ongoing tensions in the region."
     },
     {
       "genre": "Technology",
-      "summary": "KDE celebrates its 30th anniversary with the launch of Plasma 6.8, marking significant upgrades and the end of support for X11."
+      "summary": "Apple introduced HomeView, a new smart home device, while comparisons are being made with other devices in the market."
+    },
+    {
+      "genre": "Technology",
+      "summary": "A review of the Asus ROG Xbox Ally X20 highlights its design and comfort, positioning it as a top choice for handheld gaming."
     }
   ]
 }
