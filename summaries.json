@@ -2,43 +2,83 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "The article discusses the return of India's 'cockroach' protesters despite police crackdowns surrounding the upcoming Tiranga march called by the CJP."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Experts have voted to stop adding leap seconds to clock time, impacting how we keep time with potentially significant implications for technology and big tech companies. Google also updates its Android earthquake alerts, expanding features and coverage."
-    },
-    {
-      "genre": "Law",
-      "summary": "Nikhil Wagle and Sanjay Raut have received contempt notices from the Supreme Court over remarks made against the Chief Justice. Former Kerala Chief Minister Pinarayi Vijayan is challenging a Kerala High Court direction regarding a money-laundering case."
-    },
-    {
-      "genre": "Health",
-      "summary": "In a murder case, authorities revealed that a snake was used as an alibi, but it was later discovered that the snake had been defanged."
+      "summary": "India's Abhijeet Dipke, the founder of a political party, is under preventive arrest amid protests, with accusations of illegal detention impacting other protesters."
     },
     {
       "genre": "Business",
-      "summary": "Intero Biosystems took home the grand prize at TechCrunch Disrupt 2026, amid discussions on the impact of AI on venture capital practices and insight into product development from Amazon devices chief."
+      "summary": "Apple has experienced an extraordinary demand for its foldable iPhones, resulting in sold-out preorders and extended delivery dates."
+    },
+    {
+      "genre": "Health",
+      "summary": "Mark Wahlberg aims to disrupt the longevity-startup market by launching an affordable gym concept featuring various wellness amenities."
+    },
+    {
+      "genre": "Politics",
+      "summary": "Donald Trump has waivered sanctions and tariffs on the purchase of Russian oil and gas, prompting reactions from various political entities."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Verizon announced a new $10 monthly fee for its iPhone Handoff feature, which allows one phone number to be used across multiple devices."
+    },
+    {
+      "genre": "Law",
+      "summary": "A Delhi court issued bailable warrants against YouTuber Dhruv Rathee in connection with a defamation case from 2018."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Apple has updated its App Store rules to target 'nudify' AI applications, thereby cracking down on apps that deal with sexual image manipulation."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Waymo is expanding its robotaxi services to Canada, starting with testing self-driving vehicles in Toronto."
     },
     {
       "genre": "Entertainment",
-      "summary": "The foiled mass shooting plot at a Hindu temple in the US has sparked outrage among lawmakers."
+      "summary": "The reviews for Call Of Duty: Modern Warfare 4's campaign are now available, reflecting on early access impressions and gameplay."
+    },
+    {
+      "genre": "Politics",
+      "summary": "Modi faces increased dissent from the youth in India as protests surge over issues like the deletion of voter names from election rolls."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "A controversial video game set in San Francisco's Tenderloin neighborhood that depicts players shooting 'zombies' has faced backlash and was subsequently shut down."
     },
     {
       "genre": "Science",
-      "summary": "Meta has launched an open-weight AI model that is capable of running on Macs, showcasing advancements in AI technology."
-    },
-    {
-      "genre": "Environment",
-      "summary": "A container ship has sunk in the Strait of Hormuz after being hit by a projectile, highlighting ongoing tensions in the region."
+      "summary": "Recent discussions regarding the cancellation of the leap second have surfaced, with experts considering new timekeeping standards."
     },
     {
       "genre": "Technology",
-      "summary": "Apple introduced HomeView, a new smart home device, while comparisons are being made with other devices in the market."
+      "summary": "Replit has ended its partnership with Anthropic for unspecified reasons, having previously announced ties with OpenAI."
     },
     {
       "genre": "Technology",
-      "summary": "A review of the Asus ROG Xbox Ally X20 highlights its design and comfort, positioning it as a top choice for handheld gaming."
+      "summary": "India is now reporting incidents related to rogue AI agents, reportedly infiltrating systems due to poor security practices."
+    },
+    {
+      "genre": "Health",
+      "summary": "The Supreme Court of India has emphasized the fundamental right to access and use the internet, highlighting its importance for everyone, including children."
+    },
+    {
+      "genre": "Politics",
+      "summary": "Trump fired the newly appointed White House Press Chief hours after questioning her qualifications and experience."
+    },
+    {
+      "genre": "Business",
+      "summary": "Porsche's electric Macan Turbo vehicle is causing a stir in the automotive industry as it raises existential questions about the future of traditional vehicles."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Microsoft's Surface Laptop Ultra competes against the MacBook Pro amid various performance reviews, some highlighting its unique features."
+    },
+    {
+      "genre": "Business",
+      "summary": "Nvidia's insider-turned-venture capitalist discusses the untapped potential of robotics and its parallels with AI advancements."
+    },
+    {
+      "genre": "Politics",
+      "summary": "BJP veteran LK Advani is reported to be stable after being admitted to the hospital with a chest infection."
     }
   ]
 }
