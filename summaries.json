@@ -1,84 +1,68 @@
 {
   "summaries": [
     {
-      "genre": "Politics",
-      "summary": "India's Abhijeet Dipke, the founder of a political party, is under preventive arrest amid protests, with accusations of illegal detention impacting other protesters."
+      "genre": "World",
+      "summary": "A stampede during a Durga Puja celebration in Kolkata has resulted in at least 19 deaths and many injuries. Investigations are ongoing, and several arrests have been made."
     },
     {
       "genre": "Business",
-      "summary": "Apple has experienced an extraordinary demand for its foldable iPhones, resulting in sold-out preorders and extended delivery dates."
-    },
-    {
-      "genre": "Health",
-      "summary": "Mark Wahlberg aims to disrupt the longevity-startup market by launching an affordable gym concept featuring various wellness amenities."
-    },
-    {
-      "genre": "Politics",
-      "summary": "Donald Trump has waivered sanctions and tariffs on the purchase of Russian oil and gas, prompting reactions from various political entities."
+      "summary": "Apple is addressing high demand by advising retail staff to warn customers against walk-in purchases of its new iPhone Duo, which has seen preorders sell out quickly."
     },
     {
       "genre": "Technology",
-      "summary": "Verizon announced a new $10 monthly fee for its iPhone Handoff feature, which allows one phone number to be used across multiple devices."
+      "summary": "Meta has updated its terms to remove language that previously raised concerns regarding web scraping and AI training."
+    },
+    {
+      "genre": "Politics",
+      "summary": "Former President Trump has eased oil sanctions against Russia, though questions remain regarding European dependency on Russian gas."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Intel has announced that its upcoming Razor Lake-AX will achieve 700 TOPS in AI performance, significantly exceeding current standards."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "The newly launched Call of Duty: Modern Warfare 4 has received overwhelmingly positive reviews on Steam, indicating strong player satisfaction."
+    },
+    {
+      "genre": "World",
+      "summary": "Protests in France have escalated into violence, leading to significant arrests and widespread unrest, with President Macron promising to take action."
+    },
+    {
+      "genre": "World",
+      "summary": "In Madhya Pradesh, a tragic incident occurred where a truck ran over devotees near a temple, resulting in multiple fatalities and injuries."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Replit has chosen OpenAI as its default model over Anthropic, signaling a strategic shift in its service offerings."
     },
     {
       "genre": "Law",
-      "summary": "A Delhi court issued bailable warrants against YouTuber Dhruv Rathee in connection with a defamation case from 2018."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Apple has updated its App Store rules to target 'nudify' AI applications, thereby cracking down on apps that deal with sexual image manipulation."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Waymo is expanding its robotaxi services to Canada, starting with testing self-driving vehicles in Toronto."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "The reviews for Call Of Duty: Modern Warfare 4's campaign are now available, reflecting on early access impressions and gameplay."
-    },
-    {
-      "genre": "Politics",
-      "summary": "Modi faces increased dissent from the youth in India as protests surge over issues like the deletion of voter names from election rolls."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "A controversial video game set in San Francisco's Tenderloin neighborhood that depicts players shooting 'zombies' has faced backlash and was subsequently shut down."
+      "summary": "A Delhi court has ordered the release of CJP founder Abhijeet Dipke after he signed a peace bond following his arrest."
     },
     {
       "genre": "Science",
-      "summary": "Recent discussions regarding the cancellation of the leap second have surfaced, with experts considering new timekeeping standards."
+      "summary": "In a significant decision, timekeepers have officially cancelled the leap second, opting instead for a leap hour."
     },
     {
       "genre": "Technology",
-      "summary": "Replit has ended its partnership with Anthropic for unspecified reasons, having previously announced ties with OpenAI."
+      "summary": "Ember has released a new temperature-controlled mug that no longer requires an app to adjust temperature, enhancing user experience."
     },
     {
       "genre": "Technology",
-      "summary": "India is now reporting incidents related to rogue AI agents, reportedly infiltrating systems due to poor security practices."
+      "summary": "TikTok has permanently banned an advertising account linked to a documentary about Elon Musk, amidst ongoing controversies surrounding the film."
     },
     {
-      "genre": "Health",
-      "summary": "The Supreme Court of India has emphasized the fundamental right to access and use the internet, highlighting its importance for everyone, including children."
+      "genre": "Technology",
+      "summary": "Every major USB-C cable brand is being ranked to assist consumers in making informed purchasing decisions."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "Mark Wahlberg is entering the affordable gym market, aiming to compete with the longevity-startup crowd."
     },
     {
       "genre": "Politics",
-      "summary": "Trump fired the newly appointed White House Press Chief hours after questioning her qualifications and experience."
-    },
-    {
-      "genre": "Business",
-      "summary": "Porsche's electric Macan Turbo vehicle is causing a stir in the automotive industry as it raises existential questions about the future of traditional vehicles."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Microsoft's Surface Laptop Ultra competes against the MacBook Pro amid various performance reviews, some highlighting its unique features."
-    },
-    {
-      "genre": "Business",
-      "summary": "Nvidia's insider-turned-venture capitalist discusses the untapped potential of robotics and its parallels with AI advancements."
-    },
-    {
-      "genre": "Politics",
-      "summary": "BJP veteran LK Advani is reported to be stable after being admitted to the hospital with a chest infection."
+      "summary": "In the UK, protests and counter-protests have erupted regarding the election commission and its leadership."
     }
   ]
 }
