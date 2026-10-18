@@ -1,68 +1,40 @@
 {
   "summaries": [
     {
-      "genre": "World",
-      "summary": "A stampede during a Durga Puja celebration in Kolkata has resulted in at least 19 deaths and many injuries. Investigations are ongoing, and several arrests have been made."
+      "genre": "Politics",
+      "summary": "Seven individuals, including organizers of Kolkata's Durga Puja, were arrested following a stampede incident. The tragedy raised concerns over crowd safety during large public gatherings."
     },
     {
       "genre": "Business",
-      "summary": "Apple is addressing high demand by advising retail staff to warn customers against walk-in purchases of its new iPhone Duo, which has seen preorders sell out quickly."
+      "summary": "Mark Wahlberg plans to enter the longevity-startup scene with a new affordable gym concept, aiming to offer premium wellness services without the high costs typically associated with such facilities."
     },
     {
       "genre": "Technology",
-      "summary": "Meta has updated its terms to remove language that previously raised concerns regarding web scraping and AI training."
+      "summary": "Replit has decided to make OpenAI its default model provider, replacing Anthropic, while still offering Claude to its customers. Additionally, Ember launched a new temperature-controlled mug without the need for an app."
     },
     {
-      "genre": "Politics",
-      "summary": "Former President Trump has eased oil sanctions against Russia, though questions remain regarding European dependency on Russian gas."
+      "genre": "World",
+      "summary": "In France, massive protests have erupted leading to significant riots, with historic town halls being burnt and shops looted, highlighting widespread public unrest."
     },
     {
-      "genre": "Technology",
-      "summary": "Intel has announced that its upcoming Razor Lake-AX will achieve 700 TOPS in AI performance, significantly exceeding current standards."
+      "genre": "Environment",
+      "summary": "Chennai is experiencing severe flooding due to heavy rainfall, leading to significant disruptions and necessitating preparations for continued adverse weather conditions."
     },
     {
       "genre": "Entertainment",
-      "summary": "The newly launched Call of Duty: Modern Warfare 4 has received overwhelmingly positive reviews on Steam, indicating strong player satisfaction."
+      "summary": "Ina Garten shares her culinary secret for perfect scrambled eggs."
     },
     {
-      "genre": "World",
-      "summary": "Protests in France have escalated into violence, leading to significant arrests and widespread unrest, with President Macron promising to take action."
-    },
-    {
-      "genre": "World",
-      "summary": "In Madhya Pradesh, a tragic incident occurred where a truck ran over devotees near a temple, resulting in multiple fatalities and injuries."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Replit has chosen OpenAI as its default model over Anthropic, signaling a strategic shift in its service offerings."
+      "genre": "Sports",
+      "summary": "Call of Duty: Modern Warfare 4 has been positively received on Steam, achieving a 90% approval rating from players."
     },
     {
       "genre": "Law",
-      "summary": "A Delhi court has ordered the release of CJP founder Abhijeet Dipke after he signed a peace bond following his arrest."
+      "summary": "A Delhi court has ordered the release of CJP founder Abhijeet Dipke following a legal intervention."
     },
     {
       "genre": "Science",
-      "summary": "In a significant decision, timekeepers have officially cancelled the leap second, opting instead for a leap hour."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Ember has released a new temperature-controlled mug that no longer requires an app to adjust temperature, enhancing user experience."
-    },
-    {
-      "genre": "Technology",
-      "summary": "TikTok has permanently banned an advertising account linked to a documentary about Elon Musk, amidst ongoing controversies surrounding the film."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Every major USB-C cable brand is being ranked to assist consumers in making informed purchasing decisions."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "Mark Wahlberg is entering the affordable gym market, aiming to compete with the longevity-startup crowd."
-    },
-    {
-      "genre": "Politics",
-      "summary": "In the UK, protests and counter-protests have erupted regarding the election commission and its leadership."
+      "summary": "The decision has been made to eliminate the leap second from timekeeping starting from May 2027, a move prompted by scientific reasoning."
     }
   ]
 }
