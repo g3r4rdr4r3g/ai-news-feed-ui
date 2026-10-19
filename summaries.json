@@ -2,39 +2,31 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Seven individuals, including organizers of Kolkata's Durga Puja, were arrested following a stampede incident. The tragedy raised concerns over crowd safety during large public gatherings."
+      "summary": "French President Macron vows accountability for those seeking to destabilize the Republic amidst violent protests."
     },
     {
       "genre": "Business",
-      "summary": "Mark Wahlberg plans to enter the longevity-startup scene with a new affordable gym concept, aiming to offer premium wellness services without the high costs typically associated with such facilities."
+      "summary": "Benchmark partners discuss strategies for investing in a cluttered market, emphasizing a laid-back approach in San Francisco."
     },
     {
       "genre": "Technology",
-      "summary": "Replit has decided to make OpenAI its default model provider, replacing Anthropic, while still offering Claude to its customers. Additionally, Ember launched a new temperature-controlled mug without the need for an app."
+      "summary": "Apple's HomeView reportedly faced delays while Anthropic commits shares to a public benefit fund. Legislation in Congress aims to ensure that video game buyers gain true ownership."
+    },
+    {
+      "genre": "Health",
+      "summary": "A tragic stampede during Kolkata's Durga Puja festival results in several arrests as investigations continue."
     },
     {
       "genre": "World",
-      "summary": "In France, massive protests have erupted leading to significant riots, with historic town halls being burnt and shops looted, highlighting widespread public unrest."
-    },
-    {
-      "genre": "Environment",
-      "summary": "Chennai is experiencing severe flooding due to heavy rainfall, leading to significant disruptions and necessitating preparations for continued adverse weather conditions."
+      "summary": "Putin proposes a trilateral summit involving Trump and Xi to discuss the Ukraine war, while the Tel Aviv-Vienna flight makes an emergency landing due to a bomb threat."
     },
     {
       "genre": "Entertainment",
-      "summary": "Ina Garten shares her culinary secret for perfect scrambled eggs."
-    },
-    {
-      "genre": "Sports",
-      "summary": "Call of Duty: Modern Warfare 4 has been positively received on Steam, achieving a 90% approval rating from players."
-    },
-    {
-      "genre": "Law",
-      "summary": "A Delhi court has ordered the release of CJP founder Abhijeet Dipke following a legal intervention."
+      "summary": "The documentary about Elizabeth Holmes sees a strong opening weekend, while Disney agrees to acquire most of Character.AI's workforce."
     },
     {
       "genre": "Science",
-      "summary": "The decision has been made to eliminate the leap second from timekeeping starting from May 2027, a move prompted by scientific reasoning."
+      "summary": "Experts adopt the leap hour in a response to Earth's acceleration, marking a significant change in how time is measured."
     }
   ]
 }
