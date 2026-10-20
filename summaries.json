@@ -2,35 +2,35 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Trump criticizes Macron amid rising unrest in France, claiming it will soon become a Muslim city. He connects the France situation to potential consequences in the U.S. if Democrats win."
+      "summary": "Marco Rubio arrives in India for a three-day visit, with discussions on trade deals and energy supply diversification on the agenda."
     },
     {
       "genre": "Technology",
-      "summary": "Apple announces a product launch event for its new touch-screen MacBook Pro on October 28, alongside expected updates to its iPhone Duo delivery times and details about its foldable phone."
+      "summary": "Yelp introduces new AI features in its app, enabling it to call restaurants on users' behalf to check wait times and provide personalized recommendations."
     },
     {
       "genre": "Business",
-      "summary": "Walmart's Flipkart is reportedly expanding its food delivery service ahead of a public launch, which may pose a challenge to existing competitors in India."
+      "summary": "Otter.ai secures $320 million in funding to enhance its meeting tool and expand internationally, while Flipkart quietly builds a food delivery service in India."
     },
     {
       "genre": "Law",
-      "summary": "The custody of two leaders from CJP has been extended for an additional two days by an Executive Magistrate."
-    },
-    {
-      "genre": "World",
-      "summary": "Marco Rubio is visiting India to discuss trade, energy, and technology with Indian officials, while Hegseth makes an unannounced visit to Israel, stirring speculation about his discussions there."
-    },
-    {
-      "genre": "Health",
-      "summary": "Seven individuals have been detained in connection with a stampede during a religious gathering in Kolkata, which resulted in numerous fatalities."
+      "summary": "The custody of two CJP leaders is extended by an Executive Magistrate amid accusations of state-sponsored terrorism by Mamata Banerjee."
     },
     {
       "genre": "Entertainment",
-      "summary": "After a shooting incident involving the actor Tiger Shroff, authorities have made progress in identifying suspects linked to the case."
+      "summary": "A tragic incident involving a fan of actor Tiger Shroff occurred during a firing incident, drawing attention to the Bollywood-underworld relationship."
     },
     {
-      "genre": "Environment",
-      "summary": "Spotify is introducing QR code verification for family accounts to combat account sharing, which could result in penalties for users."
+      "genre": "Science",
+      "summary": "An individual in Gujarat jumps off a cliff while advocating for changes to domestic violence laws and documenting his distress."
+    },
+    {
+      "genre": "World",
+      "summary": "The India-New Zealand Free Trade Agreement officially comes into effect, introducing new visa categories and zero-duty access for Indian exports."
+    },
+    {
+      "genre": "Sports",
+      "summary": "The latest campaign of Modern Warfare 4 receives enthusiastic responses from players on Steam, highlighting its popularity in the gaming community."
     }
   ]
 }
