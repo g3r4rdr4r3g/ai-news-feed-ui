@@ -2,31 +2,35 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Recent events surrounding protests in India highlight the Bombay High Court's decision emphasizing the importance of weighing the credentials of protesters, as well as concerns about police detentions during anti-CEC protests. Additionally, issues related to public safety following a shooting attempt on Bollywood actor Tiger Shroff have surfaced, sparking increased security measures in the film industry."
-    },
-    {
-      "genre": "Business",
-      "summary": "Khosla Ventures has significantly invested in Even Healthcare to confront India's hospital economics, while T-Mobile's competitive pricing for Apple's new iPhone feature challenges Verizon's market strategy."
+      "summary": "Trump criticizes Macron amid rising unrest in France, claiming it will soon become a Muslim city. He connects the France situation to potential consequences in the U.S. if Democrats win."
     },
     {
       "genre": "Technology",
-      "summary": "Apple has updated its guidelines to ban misleading 'nudify' apps, addressing issues surrounding offensive content while also confirming the announcement of a redesigned iPad Mini. Discussing innovations in music technology, a new trend in coding for music gear is also making waves."
+      "summary": "Apple announces a product launch event for its new touch-screen MacBook Pro on October 28, alongside expected updates to its iPhone Duo delivery times and details about its foldable phone."
     },
     {
-      "genre": "Entertainment",
-      "summary": "A documentary about Elizabeth Holmes, titled 'You Can See Everything,' is experiencing significant commercial success, making it a notable release in the documentary genre."
-    },
-    {
-      "genre": "World",
-      "summary": "A protest in France has led to calls for curfews following incidents of violence, implicating the government's response to civil unrest as protracted protests spread across multiple European cities."
-    },
-    {
-      "genre": "Health",
-      "summary": "Neha Bora's legal challenges include contesting a police notice requiring her to maintain peace, amid ongoing protests indicating rising tensions related to public demonstrations and potential health implications of police actions."
+      "genre": "Business",
+      "summary": "Walmart's Flipkart is reportedly expanding its food delivery service ahead of a public launch, which may pose a challenge to existing competitors in India."
     },
     {
       "genre": "Law",
-      "summary": "Various legal challenges have emerged in India, including high-profile hearings involving the leaders of the CJP facing detention and the case of Neha Bora moving against police security measures. The Bombay High Court has acknowledged the right to peaceful protest while also stressing the necessity of evaluating protesters' standings."
+      "summary": "The custody of two leaders from CJP has been extended for an additional two days by an Executive Magistrate."
+    },
+    {
+      "genre": "World",
+      "summary": "Marco Rubio is visiting India to discuss trade, energy, and technology with Indian officials, while Hegseth makes an unannounced visit to Israel, stirring speculation about his discussions there."
+    },
+    {
+      "genre": "Health",
+      "summary": "Seven individuals have been detained in connection with a stampede during a religious gathering in Kolkata, which resulted in numerous fatalities."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "After a shooting incident involving the actor Tiger Shroff, authorities have made progress in identifying suspects linked to the case."
+    },
+    {
+      "genre": "Environment",
+      "summary": "Spotify is introducing QR code verification for family accounts to combat account sharing, which could result in penalties for users."
     }
   ]
 }
