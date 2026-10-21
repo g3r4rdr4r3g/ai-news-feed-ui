@@ -1,20 +1,44 @@
 {
   "summaries": [
     {
-      "genre": "Politics",
-      "summary": "Recent discussions highlight the U.S.-India trade negotiations with Donald Trump and Marco Rubio emphasizing their proximity to a deal, as both countries explore energy and defense cooperation."
+      "genre": "Law",
+      "summary": "CJP leaders Saurav Das and Ashutosh Ranka withdrew from a Delhi High Court plea challenging their judicial custody."
+    },
+    {
+      "genre": "Business",
+      "summary": "Apple limits iPhone Duo orders to two per customer in an effort to prevent scalping as the product launches."
     },
     {
       "genre": "Technology",
-      "summary": "Google and Anthropic are advancing their AI technologies, focusing on bringing personalized AI to cars and proposing new AI safety legislation, while SpaceX's AI business shows strong profitability."
+      "summary": "Anthropic proposes an AI safety policy that would restrict model releases if significant risk to human life is deemed possible."
     },
     {
-      "genre": "Entertainment",
-      "summary": "The ongoing scrutiny of celebrity safety continues with recent incidents involving gun violence, amid discussions around various entertainment-related topics."
+      "genre": "World",
+      "summary": "Marco Rubio's visit to India's Reliance oil refinery aims to discuss imminent US-India trade deal and relationships with major Indian corporations."
     },
     {
-      "genre": "Law",
-      "summary": "Legal actions are developing as leaders from the Citizens for Justice and Peace challenge their judicial custody, reflecting broader implications for justice and governance in India."
+      "genre": "Technology",
+      "summary": "Google is enhancing its Gemini AI assistant for vehicles, bringing more personalized assistance to drivers."
+    },
+    {
+      "genre": "Technology",
+      "summary": "SpaceX reports better-than-expected performance from its AI business, contributing significantly to profitability."
+    },
+    {
+      "genre": "Health",
+      "summary": "Delhi's air quality worsens dramatically, prompting the initiation of GRAP-1 pollution restrictions across the National Capital Region."
+    },
+    {
+      "genre": "Business",
+      "summary": "Ambani's Jio IPO receives overwhelming investor interest, fully subscribed within 100 minutes, marking a record for Indian public offerings."
+    },
+    {
+      "genre": "Technology",
+      "summary": "OpenAI acquires Orchestra Bio to strengthen its capabilities in biotechnology through its AI model for life sciences research."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Microsoft plans major changes to Xbox Game Pass, introducing customizable options for subscribers."
     }
   ]
 }
