@@ -2,35 +2,19 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Marco Rubio arrives in India for a three-day visit, with discussions on trade deals and energy supply diversification on the agenda."
+      "summary": "Recent discussions highlight the U.S.-India trade negotiations with Donald Trump and Marco Rubio emphasizing their proximity to a deal, as both countries explore energy and defense cooperation."
     },
     {
       "genre": "Technology",
-      "summary": "Yelp introduces new AI features in its app, enabling it to call restaurants on users' behalf to check wait times and provide personalized recommendations."
-    },
-    {
-      "genre": "Business",
-      "summary": "Otter.ai secures $320 million in funding to enhance its meeting tool and expand internationally, while Flipkart quietly builds a food delivery service in India."
-    },
-    {
-      "genre": "Law",
-      "summary": "The custody of two CJP leaders is extended by an Executive Magistrate amid accusations of state-sponsored terrorism by Mamata Banerjee."
+      "summary": "Google and Anthropic are advancing their AI technologies, focusing on bringing personalized AI to cars and proposing new AI safety legislation, while SpaceX's AI business shows strong profitability."
     },
     {
       "genre": "Entertainment",
-      "summary": "A tragic incident involving a fan of actor Tiger Shroff occurred during a firing incident, drawing attention to the Bollywood-underworld relationship."
+      "summary": "The ongoing scrutiny of celebrity safety continues with recent incidents involving gun violence, amid discussions around various entertainment-related topics."
     },
     {
-      "genre": "Science",
-      "summary": "An individual in Gujarat jumps off a cliff while advocating for changes to domestic violence laws and documenting his distress."
-    },
-    {
-      "genre": "World",
-      "summary": "The India-New Zealand Free Trade Agreement officially comes into effect, introducing new visa categories and zero-duty access for Indian exports."
-    },
-    {
-      "genre": "Sports",
-      "summary": "The latest campaign of Modern Warfare 4 receives enthusiastic responses from players on Steam, highlighting its popularity in the gaming community."
+      "genre": "Law",
+      "summary": "Legal actions are developing as leaders from the Citizens for Justice and Peace challenge their judicial custody, reflecting broader implications for justice and governance in India."
     }
   ]
 }
