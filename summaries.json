@@ -2,43 +2,51 @@
   "summaries": [
     {
       "genre": "Law",
-      "summary": "CJP leaders Saurav Das and Ashutosh Ranka have pledged not to call for a protest at Jantar Mantar until certain conditions are met, following their summons by the Delhi Police."
+      "summary": "CJP leaders Saurav Das and Ashutosh Ranka were summoned by Delhi Police after their release from jail relating to a probe into a protest."
     },
     {
       "genre": "Technology",
-      "summary": "Tesla announced it will begin selling its new Cybercab vehicle, a unique autonomous design without traditional controls, by the end of the year despite ongoing safety investigations."
-    },
-    {
-      "genre": "Business",
-      "summary": "Bose has acquired audio rival Skullcandy in a strategic move to expand its market reach within the audio industry."
+      "summary": "Tesla announced it will start selling its autonomous Cybercabs by the end of the year, amid federal safety investigations."
     },
     {
       "genre": "World",
-      "summary": "An attack at King Fahd Airport in Saudi Arabia has left one person dead and eight injured, leading to the diversion of several flights."
+      "summary": "An attack on Saudi Arabia’s King Fahd airport resulted in two fatalities, including an Indian national, as regional tensions continue."
+    },
+    {
+      "genre": "Technology",
+      "summary": "YouTube confirmed it is not testing the hiding of the dislike button, despite user speculation and backlash regarding dislike features."
+    },
+    {
+      "genre": "Business",
+      "summary": "Blackstone’s Jas Khaira addressed concerns over AI-related debt, stating such fears are overstated."
+    },
+    {
+      "genre": "Business",
+      "summary": "Meta is planning to use a newly created class of stock to finance its extensive investments in AI technologies."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Fitbit launched the new Fitbit Edge tracker, comparing it to the Inspire 3 and showcasing its features in the health tech market."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Airbnb faced backlash after announcing limitations on chores hosts can require from guests, which may drive some hosts off the platform."
     },
     {
       "genre": "Politics",
-      "summary": "During upcoming talks, Indian PM Narendra Modi and Polish PM Donald Tusk will focus on trade and defense issues, especially relating to the Russia-Ukraine conflict."
+      "summary": "Priyanka Gandhi’s son expressed frustration over the removal of his protest photographs from a Delhi exhibition, with officials citing policy violations."
     },
     {
       "genre": "Entertainment",
-      "summary": "A controversy over the removal of protest photographs by Priyanka Gandhi's son from an exhibition has sparked significant backlash, with criticisms surrounding censorship in the arts."
+      "summary": "BioWare, after 30 years of influential gaming, has been shut down by EA, resulting in significant layoffs and the cancellation of future projects."
     },
     {
-      "genre": "Health",
-      "summary": "Airbnb's recent changes, including limiting cleaning chores required by hosts, have caused backlash, leading to concerns among hosts about the new expectations for guests."
-    },
-    {
-      "genre": "Science",
-      "summary": "Meta's new AI app, Muse, has surpassed 10 million users, with shopping being highlighted as one of the main uses."
+      "genre": "Business",
+      "summary": "Marco Rubio and Indian businessman Ambani discussed energy, digital infrastructure, and manufacturing at a meeting in Jamnagar refinery."
     },
     {
       "genre": "Technology",
-      "summary": "Xbox has introduced a pay-as-you-go option for cloud gaming, allowing users to access games at a rate of $3.99 for 10 hours."
-    },
-    {
-      "genre": "Technology",
-      "summary": "YouTube's decision to hide the dislike button on normal videos has led to user backlash and debates over content engagement."
+      "summary": "Apple's new iPhone Duo features notable changes, including improvements to its folding mechanism, which has undergone extensive testing."
     }
   ]
 }
