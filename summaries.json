@@ -2,67 +2,23 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "RTI reveals that the Cabinet Secretary had not acted on complaints from Election Commissioners, raising questions about the management of official disputes."
+      "summary": "Farm organizations demand the resignation of CEC Gyanesh Kumar, while protests continue in Delhi despite police actions."
     },
     {
       "genre": "Technology",
-      "summary": "The launch of Apple's iPhone Duo is significantly impacting the market, with Samsung indicating that sales of the Galaxy Z Fold 8 have increased following the Duo's introduction."
-    },
-    {
-      "genre": "Health",
-      "summary": "Oura has filed a lawsuit against Ultrahuman, claiming infringement on patents related to smart ring technology."
-    },
-    {
-      "genre": "World",
-      "summary": "A 7.0 magnitude earthquake struck Tibet, resulting in 16 fatalities and significant damage, prompting rescue efforts."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "The attack on Indian actor Tiger Shroff has revived concerns over the violence and gangster culture in Bollywood."
-    },
-    {
-      "genre": "Science",
-      "summary": "Researchers from MIT observed AI agents developing games and improving their functionality when left unattended on a virtual platform."
+      "summary": "Apple discusses demand and availability for the new iPhone Duo, while WhatsApp introduces a long-awaited scheduled messages feature. Additionally, AI agents have been observed playing games when left alone, showcasing an interesting development in AI behavior."
     },
     {
       "genre": "Business",
-      "summary": "Mark Zuckerberg plans to navigate California's proposed billionaire tax using a new stock class to maintain control of Meta."
+      "summary": "Oura sues Ultrahuman over patent infringements regarding smart rings, and concerns arise over stock market drops and surging oil prices amid geopolitical tensions."
     },
     {
-      "genre": "Environment",
-      "summary": "Commerce Minister Piyush Goyal criticized Europe over its carbon tax policy, suggesting it could increase living costs."
+      "genre": "World",
+      "summary": "A 7.0 magnitude earthquake strikes Tibet, resulting in multiple casualties."
     },
     {
-      "genre": "Technology",
-      "summary": "YouTube is changing its mobile app interface and removing the ‘Subscriptions’ tab after nearly a decade."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Canva has launched its first image generation model, marking a notable advancement in AI design capabilities."
-    },
-    {
-      "genre": "Technology",
-      "summary": "After struggling with blockchain investments, a16z Crypto has rebranded as a16z Frontier to broaden its focus."
-    },
-    {
-      "genre": "Technology",
-      "summary": "InDrive is planning to test robotaxi services in Central Asia in collaboration with Pony.ai and Nvidia."
-    },
-    {
-      "genre": "Technology",
-      "summary": "A security breach has allowed hackers to unlock homebrew access on Nintendo's Switch 2."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Amazon has renamed its Kindle Unlimited service to Kindle+ and introduced two major changes, including AI audiobooks."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Warhound has raised $200 million to develop genetically engineered dogs for military use."
-    },
-    {
-      "genre": "Technology",
-      "summary": "The leaked Mass Effect 5 trailer follows the announcement of BioWare's shutdown, raising questions about the future of the franchise."
+      "genre": "Entertainment",
+      "summary": "A trailer for the highly anticipated Mass Effect 5 has reportedly leaked following BioWare's closure."
     }
   ]
 }
