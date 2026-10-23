@@ -1,52 +1,68 @@
 {
   "summaries": [
     {
-      "genre": "Law",
-      "summary": "CJP leaders Saurav Das and Ashutosh Ranka were summoned by Delhi Police after their release from jail relating to a probe into a protest."
+      "genre": "Politics",
+      "summary": "RTI reveals that the Cabinet Secretary had not acted on complaints from Election Commissioners, raising questions about the management of official disputes."
     },
     {
       "genre": "Technology",
-      "summary": "Tesla announced it will start selling its autonomous Cybercabs by the end of the year, amid federal safety investigations."
+      "summary": "The launch of Apple's iPhone Duo is significantly impacting the market, with Samsung indicating that sales of the Galaxy Z Fold 8 have increased following the Duo's introduction."
+    },
+    {
+      "genre": "Health",
+      "summary": "Oura has filed a lawsuit against Ultrahuman, claiming infringement on patents related to smart ring technology."
     },
     {
       "genre": "World",
-      "summary": "An attack on Saudi Arabia’s King Fahd airport resulted in two fatalities, including an Indian national, as regional tensions continue."
-    },
-    {
-      "genre": "Technology",
-      "summary": "YouTube confirmed it is not testing the hiding of the dislike button, despite user speculation and backlash regarding dislike features."
-    },
-    {
-      "genre": "Business",
-      "summary": "Blackstone’s Jas Khaira addressed concerns over AI-related debt, stating such fears are overstated."
-    },
-    {
-      "genre": "Business",
-      "summary": "Meta is planning to use a newly created class of stock to finance its extensive investments in AI technologies."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Fitbit launched the new Fitbit Edge tracker, comparing it to the Inspire 3 and showcasing its features in the health tech market."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Airbnb faced backlash after announcing limitations on chores hosts can require from guests, which may drive some hosts off the platform."
-    },
-    {
-      "genre": "Politics",
-      "summary": "Priyanka Gandhi’s son expressed frustration over the removal of his protest photographs from a Delhi exhibition, with officials citing policy violations."
+      "summary": "A 7.0 magnitude earthquake struck Tibet, resulting in 16 fatalities and significant damage, prompting rescue efforts."
     },
     {
       "genre": "Entertainment",
-      "summary": "BioWare, after 30 years of influential gaming, has been shut down by EA, resulting in significant layoffs and the cancellation of future projects."
+      "summary": "The attack on Indian actor Tiger Shroff has revived concerns over the violence and gangster culture in Bollywood."
+    },
+    {
+      "genre": "Science",
+      "summary": "Researchers from MIT observed AI agents developing games and improving their functionality when left unattended on a virtual platform."
     },
     {
       "genre": "Business",
-      "summary": "Marco Rubio and Indian businessman Ambani discussed energy, digital infrastructure, and manufacturing at a meeting in Jamnagar refinery."
+      "summary": "Mark Zuckerberg plans to navigate California's proposed billionaire tax using a new stock class to maintain control of Meta."
+    },
+    {
+      "genre": "Environment",
+      "summary": "Commerce Minister Piyush Goyal criticized Europe over its carbon tax policy, suggesting it could increase living costs."
     },
     {
       "genre": "Technology",
-      "summary": "Apple's new iPhone Duo features notable changes, including improvements to its folding mechanism, which has undergone extensive testing."
+      "summary": "YouTube is changing its mobile app interface and removing the ‘Subscriptions’ tab after nearly a decade."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Canva has launched its first image generation model, marking a notable advancement in AI design capabilities."
+    },
+    {
+      "genre": "Technology",
+      "summary": "After struggling with blockchain investments, a16z Crypto has rebranded as a16z Frontier to broaden its focus."
+    },
+    {
+      "genre": "Technology",
+      "summary": "InDrive is planning to test robotaxi services in Central Asia in collaboration with Pony.ai and Nvidia."
+    },
+    {
+      "genre": "Technology",
+      "summary": "A security breach has allowed hackers to unlock homebrew access on Nintendo's Switch 2."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Amazon has renamed its Kindle Unlimited service to Kindle+ and introduced two major changes, including AI audiobooks."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Warhound has raised $200 million to develop genetically engineered dogs for military use."
+    },
+    {
+      "genre": "Technology",
+      "summary": "The leaked Mass Effect 5 trailer follows the announcement of BioWare's shutdown, raising questions about the future of the franchise."
     }
   ]
 }
