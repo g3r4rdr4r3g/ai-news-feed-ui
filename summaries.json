@@ -2,23 +2,27 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Farm organizations demand the resignation of CEC Gyanesh Kumar, while protests continue in Delhi despite police actions."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Apple discusses demand and availability for the new iPhone Duo, while WhatsApp introduces a long-awaited scheduled messages feature. Additionally, AI agents have been observed playing games when left alone, showcasing an interesting development in AI behavior."
+      "summary": "Recent political events include former President Trump's warning regarding tensions with Iran and the implications of a potential U.S. strike, alongside responses from Iran affirming their stance. Additionally, in India's political landscape, Kerala's new Governor has sparked controversy with a 'veg-only kitchen' order."
     },
     {
       "genre": "Business",
-      "summary": "Oura sues Ultrahuman over patent infringements regarding smart rings, and concerns arise over stock market drops and surging oil prices amid geopolitical tensions."
+      "summary": "In the tech industry, significant changes and challenges are noted in startup operations and management, including discussions on product-market fit and new partnerships aimed at facilitating employee stock sales. Furthermore, the current status of Xbox after the departure of its first COO reflects ongoing restructuring within major companies."
     },
     {
-      "genre": "World",
-      "summary": "A 7.0 magnitude earthquake strikes Tibet, resulting in multiple casualties."
+      "genre": "Technology",
+      "summary": "Multiple reports focus on Apple's new offerings with the iPhone Duo, including issues with its hinge, and software upgrades. OpenAI also makes headlines for its decision to cease training AI on live internet data due to associated risks."
+    },
+    {
+      "genre": "Law",
+      "summary": "Court proceedings in India see the Delhi High Court rejecting a plea related to anti-CEC protests, amidst ongoing public unrest regarding electoral management."
+    },
+    {
+      "genre": "Science",
+      "summary": "In the scientific domain, the development of new health monitoring features through Google Health's app updates is highlighted, emphasizing advancements in sleep tracking and health data management."
     },
     {
       "genre": "Entertainment",
-      "summary": "A trailer for the highly anticipated Mass Effect 5 has reportedly leaked following BioWare's closure."
+      "summary": "Consumer interest is piqued with the holiday season approaching, highlighted by Nvidia's Microduck robots achieving significant sales."
     }
   ]
 }
