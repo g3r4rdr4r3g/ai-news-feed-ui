@@ -2,27 +2,35 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Recent political events include former President Trump's warning regarding tensions with Iran and the implications of a potential U.S. strike, alongside responses from Iran affirming their stance. Additionally, in India's political landscape, Kerala's new Governor has sparked controversy with a 'veg-only kitchen' order."
+      "summary": "A Class 12 student's death in Delhi, found burnt behind a school guard room, has sparked investigations into a possible suicide, with police discovering notes related to the incident."
     },
     {
       "genre": "Business",
-      "summary": "In the tech industry, significant changes and challenges are noted in startup operations and management, including discussions on product-market fit and new partnerships aimed at facilitating employee stock sales. Furthermore, the current status of Xbox after the departure of its first COO reflects ongoing restructuring within major companies."
+      "summary": "Apple's iPhone Duo is being rolled out to stores amid limited supply and repair guides, while startups are advised on customer acquisition strategies without going viral."
     },
     {
       "genre": "Technology",
-      "summary": "Multiple reports focus on Apple's new offerings with the iPhone Duo, including issues with its hinge, and software upgrades. OpenAI also makes headlines for its decision to cease training AI on live internet data due to associated risks."
+      "summary": "OpenAI has decided to halt training its AI models on live internet data due to significant risks, while various companies explore improvements and fixes for their devices."
+    },
+    {
+      "genre": "World",
+      "summary": "Tensions escalate in the Middle East, with Iran's intelligence chief warning of increased attempts to target US personnel, coinciding with Trump’s military threat alerts."
     },
     {
       "genre": "Law",
-      "summary": "Court proceedings in India see the Delhi High Court rejecting a plea related to anti-CEC protests, amidst ongoing public unrest regarding electoral management."
-    },
-    {
-      "genre": "Science",
-      "summary": "In the scientific domain, the development of new health monitoring features through Google Health's app updates is highlighted, emphasizing advancements in sleep tracking and health data management."
+      "summary": "Delhi High Court dealt with Neha Bora's peace bond case, with her challenging the validity of the notice based on diary entries leading to curbs on dissent."
     },
     {
       "genre": "Entertainment",
-      "summary": "Consumer interest is piqued with the holiday season approaching, highlighted by Nvidia's Microduck robots achieving significant sales."
+      "summary": "Tiger Shroff faced backlash after praising Salman Khan, which triggered a controversial attack, highlighting tensions in the Bollywood industry."
+    },
+    {
+      "genre": "Health",
+      "summary": "Mumbai police arrested a man linked to terrorist activities, highlighting ongoing concerns over national security."
+    },
+    {
+      "genre": "Sports",
+      "summary": "A daylight murder caught on CCTV in Maharashtra has shocked the public, prompting widespread media coverage on the incident."
     }
   ]
 }
