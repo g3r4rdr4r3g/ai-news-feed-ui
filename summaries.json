@@ -2,35 +2,19 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "A Class 12 student's death in Delhi, found burnt behind a school guard room, has sparked investigations into a possible suicide, with police discovering notes related to the incident."
-    },
-    {
-      "genre": "Business",
-      "summary": "Apple's iPhone Duo is being rolled out to stores amid limited supply and repair guides, while startups are advised on customer acquisition strategies without going viral."
+      "summary": "Elon Musk accuses the Ukrainian military of misusing Starlink technology for drone strikes, stating they violated terms of service."
     },
     {
       "genre": "Technology",
-      "summary": "OpenAI has decided to halt training its AI models on live internet data due to significant risks, while various companies explore improvements and fixes for their devices."
+      "summary": "Apple's new $2,000 foldable iPhone has been reported to crack within hours of use, sparking complaints from early adopters."
     },
     {
       "genre": "World",
-      "summary": "Tensions escalate in the Middle East, with Iran's intelligence chief warning of increased attempts to target US personnel, coinciding with Trump’s military threat alerts."
-    },
-    {
-      "genre": "Law",
-      "summary": "Delhi High Court dealt with Neha Bora's peace bond case, with her challenging the validity of the notice based on diary entries leading to curbs on dissent."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "Tiger Shroff faced backlash after praising Salman Khan, which triggered a controversial attack, highlighting tensions in the Bollywood industry."
+      "summary": "Saudi Arabia intercepts missiles fired by the Houthis, causing debris to fall in Mecca and Medina, amid ongoing regional tensions."
     },
     {
       "genre": "Health",
-      "summary": "Mumbai police arrested a man linked to terrorist activities, highlighting ongoing concerns over national security."
-    },
-    {
-      "genre": "Sports",
-      "summary": "A daylight murder caught on CCTV in Maharashtra has shocked the public, prompting widespread media coverage on the incident."
+      "summary": "India criticizes Pakistan for its treatment of military and minority rights during a UN discussion, urging prioritization of humanitarian concerns."
     }
   ]
 }
