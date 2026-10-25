@@ -2,19 +2,35 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Elon Musk accuses the Ukrainian military of misusing Starlink technology for drone strikes, stating they violated terms of service."
+      "summary": "Karnataka's leader, DK Shivakumar, warns Bengaluru IT firms against neglecting local Kannada-speaking candidates, threatening action over perceived hiring biases."
     },
     {
       "genre": "Technology",
-      "summary": "Apple's new $2,000 foldable iPhone has been reported to crack within hours of use, sparking complaints from early adopters."
+      "summary": "Apple's new foldable iPhone Duo faces issues as early owners report display failures after short usage, raising concerns about its durability and quality."
     },
     {
       "genre": "World",
-      "summary": "Saudi Arabia intercepts missiles fired by the Houthis, causing debris to fall in Mecca and Medina, amid ongoing regional tensions."
+      "summary": "Violent protests in Arunachal Pradesh escalate over a hydropower project, leading mobs to vandalize properties, including offices and homes linked to the BJP."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Nvidia's RTX Spark has been analyzed for its embedded NPU, contributing to the understanding of its performance capabilities in the market."
     },
     {
       "genre": "Health",
-      "summary": "India criticizes Pakistan for its treatment of military and minority rights during a UN discussion, urging prioritization of humanitarian concerns."
+      "summary": "A tragic incident in Kochi involves a judge's son driving a luxury car, resulting in the death of a 55-year-old man when the car collided with a scooter."
+    },
+    {
+      "genre": "Politics",
+      "summary": "External Affairs Minister S. Jaishankar urges global leaders at the UN to take decisive actions against terrorism rather than remaining passive."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Microsoft acknowledges and confirms a long-standing issue with Windows 11's Universal Print feature, which requires a manual fix for users."
+    },
+    {
+      "genre": "Health",
+      "summary": "Heavy rainfall and cyclone preparedness are being reported across the Bay of Bengal region as authorities prepare for an approaching cyclonic storm."
     }
   ]
 }
