@@ -2,35 +2,23 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Karnataka's leader, DK Shivakumar, warns Bengaluru IT firms against neglecting local Kannada-speaking candidates, threatening action over perceived hiring biases."
+      "summary": "Brazil's Lula da Silva defied the odds with a presidential election victory over Flavio Bolsonaro, who has refused to concede. This political shift has prompted various reactions in Brazil and internationally, with Lula facing economic challenges during his new term."
     },
     {
       "genre": "Technology",
-      "summary": "Apple's new foldable iPhone Duo faces issues as early owners report display failures after short usage, raising concerns about its durability and quality."
+      "summary": "There are advancements and issues within the tech world, particularly around the iPhone Duo which faces screen crack problems, concerns about AI delivering little financial benefit to companies, and new features in Android Auto. Meanwhile, innovative AI gadgets and software are emerging."
     },
     {
       "genre": "World",
-      "summary": "Violent protests in Arunachal Pradesh escalate over a hydropower project, leading mobs to vandalize properties, including offices and homes linked to the BJP."
+      "summary": "Major political changes occurred in Serbia with President Aleksandar Vučić conceding defeat to student-led protests that won elections, indicating a seismic shift in the political landscape."
     },
     {
-      "genre": "Technology",
-      "summary": "Nvidia's RTX Spark has been analyzed for its embedded NPU, contributing to the understanding of its performance capabilities in the market."
+      "genre": "Environment",
+      "summary": "Cyclonic storm Arnab has intensified and is expected to impact Tamil Nadu, prompting weather alerts across the region as heavy rains are anticipated."
     },
     {
-      "genre": "Health",
-      "summary": "A tragic incident in Kochi involves a judge's son driving a luxury car, resulting in the death of a 55-year-old man when the car collided with a scooter."
-    },
-    {
-      "genre": "Politics",
-      "summary": "External Affairs Minister S. Jaishankar urges global leaders at the UN to take decisive actions against terrorism rather than remaining passive."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Microsoft acknowledges and confirms a long-standing issue with Windows 11's Universal Print feature, which requires a manual fix for users."
-    },
-    {
-      "genre": "Health",
-      "summary": "Heavy rainfall and cyclone preparedness are being reported across the Bay of Bengal region as authorities prepare for an approaching cyclonic storm."
+      "genre": "Entertainment",
+      "summary": "Within the realm of entertainment, there are highlights such as the release of the 'Tomb Raider: Legacy of Atlantis' trailer celebrating its 30th anniversary, and the success of 'Call of Duty' in the South Korean market, indicating the continued popularity of gaming franchises."
     }
   ]
 }
