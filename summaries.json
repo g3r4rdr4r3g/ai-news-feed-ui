@@ -2,23 +2,31 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Brazil's Lula da Silva defied the odds with a presidential election victory over Flavio Bolsonaro, who has refused to concede. This political shift has prompted various reactions in Brazil and internationally, with Lula facing economic challenges during his new term."
+      "summary": "Lula wins a record fourth presidential term in Brazil, defeating the far-right and defying political figures such as Trump and Meta. This historic victory has caused stocks in Brazil to plummet."
     },
     {
       "genre": "Technology",
-      "summary": "There are advancements and issues within the tech world, particularly around the iPhone Duo which faces screen crack problems, concerns about AI delivering little financial benefit to companies, and new features in Android Auto. Meanwhile, innovative AI gadgets and software are emerging."
+      "summary": "Reports indicate that some iPhone Duo models are cracking due to suspected hinge damage, while other articles discuss Tesla's partnership with Turo to enhance the adoption of its Full Self-Driving software and details surrounding the OLED debut of the iPad mini 8."
+    },
+    {
+      "genre": "Law",
+      "summary": "Rahul Gandhi acquitted in a 2018 defamation case concerning remarks made against Amit Shah. Additionally, former DMK Minister Anbil Mahesh Poyyamozhi has been arrested in a fraud case involving private schools."
+    },
+    {
+      "genre": "Business",
+      "summary": "A study reveals that AI technologies have not generated financial payoffs for most companies, indicating a disparity between investment and returns."
     },
     {
       "genre": "World",
-      "summary": "Major political changes occurred in Serbia with President Aleksandar Vučić conceding defeat to student-led protests that won elections, indicating a seismic shift in the political landscape."
-    },
-    {
-      "genre": "Environment",
-      "summary": "Cyclonic storm Arnab has intensified and is expected to impact Tamil Nadu, prompting weather alerts across the region as heavy rains are anticipated."
+      "summary": "The US is prepared to strike Iran within 96 hours following a potential signal from Trump, heightening tensions ahead of significant elections in Israel."
     },
     {
       "genre": "Entertainment",
-      "summary": "Within the realm of entertainment, there are highlights such as the release of the 'Tomb Raider: Legacy of Atlantis' trailer celebrating its 30th anniversary, and the success of 'Call of Duty' in the South Korean market, indicating the continued popularity of gaming franchises."
+      "summary": "Grok has released the first seven minutes of its AI-generated film, 'Odyssey,' showcasing initial footage that lacks artistry or human interest."
+    },
+    {
+      "genre": "Health",
+      "summary": "In ongoing legal proceedings, Giribala Singh claims that comments made during a heated moment over an abortion do not constitute incitement to suicide in the Twisha Sharma case."
     }
   ]
 }
