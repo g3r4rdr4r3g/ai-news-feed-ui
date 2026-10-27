@@ -1,44 +1,32 @@
 {
   "summaries": [
     {
+      "genre": "Sports",
+      "summary": "India secures a historic T20I series win over New Zealand, with standout performances including Abhishek Sharma's record-breaking innings in a thrilling chase."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Apple addresses early screen issues with its foldable iPhone Duo, promising replacements for units facing problems. Additionally, the company releases updates to various operating systems, enhancing Siri's capabilities."
+    },
+    {
+      "genre": "Politics",
+      "summary": "The Supreme Court of India has postponed discussions on complaints against Chief Election Commissioner Gyanesh Kumar, while significant updates come from the Israeli elections as key polling consequences unfold."
+    },
+    {
       "genre": "World",
-      "summary": "Cyclone Arnab is approaching the Andhra coast, leading to the evacuation of over 89,000 people, and schools and trains have been canceled in preparation for its landfall."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Loss reports from iPhone Duo users indicate cracks in screens, prompting Apple to announce a replacement policy for affected units."
-    },
-    {
-      "genre": "Technology",
-      "summary": "OpenAI has transformed its coding tools into a personal assistant called 'dots,' which operates continuously."
-    },
-    {
-      "genre": "Politics",
-      "summary": "The Brazilian election results have been accepted by Bolsonaro’s party despite Trump labeling the vote as 'rigged,' amidst ongoing tensions and protests."
-    },
-    {
-      "genre": "Technology",
-      "summary": "New MacBook Pro and iMac are soon expected to be unveiled with an M6 chip during Apple's upcoming event."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Instagram plans to shift from short-form to longer-form content, allowing videos of up to 90 minutes, marking a significant strategic change."
-    },
-    {
-      "genre": "Politics",
-      "summary": "In Israel's upcoming election, major candidates are addressing critical issues including corruption and political stability."
-    },
-    {
-      "genre": "Politics",
-      "summary": "India advocates for reforms in the UN Security Council to allow veto powers for all permanent members, rejecting any notion of second-class status."
+      "summary": "Brazil's Bolsonaro party has accepted the recent elections, involving controversial attributes linked to former President Trump's remarks about election integrity."
     },
     {
       "genre": "Health",
-      "summary": "PHP has issued a security update for Windows to address a critical code execution vulnerability related to Brotli."
+      "summary": "Google's latest Fitbit integrates seamlessly with its health app, featuring significant enhancements aimed at improving user experience in health tracking."
     },
     {
-      "genre": "Technology",
-      "summary": "Apple has unveiled a new iPad mini featuring an OLED display and enhanced performance with the A20 Pro chip."
+      "genre": "Environment",
+      "summary": "As Cyclone Arnab approaches the Indian coast, evacuations are underway in anticipation of severe weather impacting several regions."
+    },
+    {
+      "genre": "Business",
+      "summary": "Nvidia shows support for an Indian startup optimizing AI model operations, which has significantly increased revenue, while concerns arise over India's privacy law that could threaten newsroom operations."
     }
   ]
 }
