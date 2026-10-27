@@ -1,32 +1,44 @@
 {
   "summaries": [
     {
-      "genre": "Politics",
-      "summary": "Lula wins a record fourth presidential term in Brazil, defeating the far-right and defying political figures such as Trump and Meta. This historic victory has caused stocks in Brazil to plummet."
+      "genre": "World",
+      "summary": "Cyclone Arnab is approaching the Andhra coast, leading to the evacuation of over 89,000 people, and schools and trains have been canceled in preparation for its landfall."
     },
     {
       "genre": "Technology",
-      "summary": "Reports indicate that some iPhone Duo models are cracking due to suspected hinge damage, while other articles discuss Tesla's partnership with Turo to enhance the adoption of its Full Self-Driving software and details surrounding the OLED debut of the iPad mini 8."
+      "summary": "Loss reports from iPhone Duo users indicate cracks in screens, prompting Apple to announce a replacement policy for affected units."
     },
     {
-      "genre": "Law",
-      "summary": "Rahul Gandhi acquitted in a 2018 defamation case concerning remarks made against Amit Shah. Additionally, former DMK Minister Anbil Mahesh Poyyamozhi has been arrested in a fraud case involving private schools."
+      "genre": "Technology",
+      "summary": "OpenAI has transformed its coding tools into a personal assistant called 'dots,' which operates continuously."
     },
     {
-      "genre": "Business",
-      "summary": "A study reveals that AI technologies have not generated financial payoffs for most companies, indicating a disparity between investment and returns."
+      "genre": "Politics",
+      "summary": "The Brazilian election results have been accepted by Bolsonaro’s party despite Trump labeling the vote as 'rigged,' amidst ongoing tensions and protests."
     },
     {
-      "genre": "World",
-      "summary": "The US is prepared to strike Iran within 96 hours following a potential signal from Trump, heightening tensions ahead of significant elections in Israel."
+      "genre": "Technology",
+      "summary": "New MacBook Pro and iMac are soon expected to be unveiled with an M6 chip during Apple's upcoming event."
     },
     {
-      "genre": "Entertainment",
-      "summary": "Grok has released the first seven minutes of its AI-generated film, 'Odyssey,' showcasing initial footage that lacks artistry or human interest."
+      "genre": "Technology",
+      "summary": "Instagram plans to shift from short-form to longer-form content, allowing videos of up to 90 minutes, marking a significant strategic change."
+    },
+    {
+      "genre": "Politics",
+      "summary": "In Israel's upcoming election, major candidates are addressing critical issues including corruption and political stability."
+    },
+    {
+      "genre": "Politics",
+      "summary": "India advocates for reforms in the UN Security Council to allow veto powers for all permanent members, rejecting any notion of second-class status."
     },
     {
       "genre": "Health",
-      "summary": "In ongoing legal proceedings, Giribala Singh claims that comments made during a heated moment over an abortion do not constitute incitement to suicide in the Twisha Sharma case."
+      "summary": "PHP has issued a security update for Windows to address a critical code execution vulnerability related to Brotli."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Apple has unveiled a new iPad mini featuring an OLED display and enhanced performance with the A20 Pro chip."
     }
   ]
 }
