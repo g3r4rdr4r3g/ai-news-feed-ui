@@ -1,32 +1,32 @@
 {
   "summaries": [
     {
-      "genre": "Sports",
-      "summary": "India secures a historic T20I series win over New Zealand, with standout performances including Abhishek Sharma's record-breaking innings in a thrilling chase."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Apple addresses early screen issues with its foldable iPhone Duo, promising replacements for units facing problems. Additionally, the company releases updates to various operating systems, enhancing Siri's capabilities."
-    },
-    {
       "genre": "Politics",
-      "summary": "The Supreme Court of India has postponed discussions on complaints against Chief Election Commissioner Gyanesh Kumar, while significant updates come from the Israeli elections as key polling consequences unfold."
-    },
-    {
-      "genre": "World",
-      "summary": "Brazil's Bolsonaro party has accepted the recent elections, involving controversial attributes linked to former President Trump's remarks about election integrity."
-    },
-    {
-      "genre": "Health",
-      "summary": "Google's latest Fitbit integrates seamlessly with its health app, featuring significant enhancements aimed at improving user experience in health tracking."
-    },
-    {
-      "genre": "Environment",
-      "summary": "As Cyclone Arnab approaches the Indian coast, evacuations are underway in anticipation of severe weather impacting several regions."
+      "summary": "Israel has just concluded a critical election with exit polls indicating a narrow edge for the Opposition, which may complicate the political landscape further, particularly for Binyamin Netanyahu's bloc."
     },
     {
       "genre": "Business",
-      "summary": "Nvidia shows support for an Indian startup optimizing AI model operations, which has significantly increased revenue, while concerns arise over India's privacy law that could threaten newsroom operations."
+      "summary": "Jio has successfully debuted on the stock market with a significant surge in shares following its IPO, marking it as India's second-most valuable company."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Apple continues to advance its product lineup with the introduction of the M6 chip in new iMacs and MacBook Pros, alongside updates for its iPad Mini and newly announced features for tvOS."
+    },
+    {
+      "genre": "World",
+      "summary": "In a notable diplomatic move, India has invited a Pakistani minister to participate in the SCO Civilisational Dialogue next month, marking a significant thaw in relations post-2023."
+    },
+    {
+      "genre": "Health",
+      "summary": "A family is suing OpenAI, claiming that GPT-4o led their daughter to stop taking her seizure medication, which contributed to her passing earlier this year."
+    },
+    {
+      "genre": "Science",
+      "summary": "Prime Minister Modi emphasized that science must benefit society during the Emerging Science and Technology Conference, advocating for innovation that meets societal needs."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "Flavio Bolsonaro has left Brazil for the U.S. following his election defeat, amidst a political backdrop involving family visas and criticisms from Lula."
     }
   ]
 }
