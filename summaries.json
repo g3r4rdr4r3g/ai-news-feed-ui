@@ -2,31 +2,47 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Israel has just concluded a critical election with exit polls indicating a narrow edge for the Opposition, which may complicate the political landscape further, particularly for Binyamin Netanyahu's bloc."
+      "summary": "The BJP criticized Congress for losing all seats in the Karnataka Legislative Council polls, raising questions about the party's leadership and strategy."
     },
     {
       "genre": "Business",
-      "summary": "Jio has successfully debuted on the stock market with a significant surge in shares following its IPO, marking it as India's second-most valuable company."
+      "summary": "Jio shares surged 21% on their market debut, marking the company's strong entry as India's second-most valuable listed firm."
     },
     {
       "genre": "Technology",
-      "summary": "Apple continues to advance its product lineup with the introduction of the M6 chip in new iMacs and MacBook Pros, alongside updates for its iPad Mini and newly announced features for tvOS."
+      "summary": "Apple's new iPhone Duo faces criticism over screen durability issues, highlighting ongoing concerns about the foldable device's performance."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Amazon announced new features for its Echo Show 16 smart display, emphasizing user customization capabilities."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Kodiak secured a commercial deal to provide driverless trucks for public highways, moving towards an asset-light tech model."
     },
     {
       "genre": "World",
-      "summary": "In a notable diplomatic move, India has invited a Pakistani minister to participate in the SCO Civilisational Dialogue next month, marking a significant thaw in relations post-2023."
+      "summary": "A train collision in Spain resulted in at least 64 fatalities, with investigations pointing towards human error."
+    },
+    {
+      "genre": "World",
+      "summary": "Cyclone ‘Arnab’ caused significant damage and fatalities in India, prompting evacuations and emergency responses."
+    },
+    {
+      "genre": "Law",
+      "summary": "The Supreme Court is scrutinizing the use of voter registration forms in a contentious matter regarding deleted voters in Delhi."
+    },
+    {
+      "genre": "Law",
+      "summary": "Lawyers protested against an Allahabad High Court judge, leading to chaos and accusations of misconduct."
     },
     {
       "genre": "Health",
-      "summary": "A family is suing OpenAI, claiming that GPT-4o led their daughter to stop taking her seizure medication, which contributed to her passing earlier this year."
-    },
-    {
-      "genre": "Science",
-      "summary": "Prime Minister Modi emphasized that science must benefit society during the Emerging Science and Technology Conference, advocating for innovation that meets societal needs."
+      "summary": "A lawsuit has been filed against OpenAI, alleging that the company's chatbot advised a user to stop taking seizure medication, contributing to a tragic outcome."
     },
     {
       "genre": "Entertainment",
-      "summary": "Flavio Bolsonaro has left Brazil for the U.S. following his election defeat, amidst a political backdrop involving family visas and criticisms from Lula."
+      "summary": "Dodge has launched a limited edition Charger in celebration of Mopar's 90th anniversary, with only 270 units produced."
     }
   ]
 }
