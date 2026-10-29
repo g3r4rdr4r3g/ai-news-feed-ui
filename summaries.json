@@ -2,39 +2,35 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "The Israeli election remains undecided with nearly 90% of the votes counted, showing no clear winner as coalition talks begin."
+      "summary": "No clear winner in Israel's election as voting results come in, with discussion surrounding party performance and potential coalitions."
     },
     {
       "genre": "Business",
-      "summary": "Apple has introduced touchscreen laptops at higher prices, marking a significant shift from its previous MacBook policy."
+      "summary": "Apple introduces a touchscreen MacBook Pro, significantly raising the pricing benchmark for laptops."
     },
     {
       "genre": "Technology",
-      "summary": "Upwind raised $400 million after opting against an acquisition offer; Microsoft disclosed Azure's revenue reaching $33.2 billion and its commercial revenue from OpenAI at $10 billion. Meanwhile, Google expanded its AI search ads globally."
+      "summary": "Deepgram acquires Pipecat-maker Daily to enhance its voice AI capabilities, while Amazon updates Alexa for better shopping list management."
     },
     {
       "genre": "World",
-      "summary": "Cyclone Arnab is expected to weaken into a depression, resulting in significant disruptions and destruction in India following its landfall."
-    },
-    {
-      "genre": "Law",
-      "summary": "The Supreme Court of India is questioning the Election Commission about discrepancies in voter registration forms during the Delhi State Election."
+      "summary": "A Russian attack on a Dnipro train station results in at least 13 deaths, amidst ongoing conflict in Ukraine."
     },
     {
       "genre": "Environment",
-      "summary": "Jio Platforms saw a significant share price increase on its market debut, highlighting investor confidence."
+      "summary": "Cyclone Arnab has impacted regions across India, causing flooding and prompting government responses."
     },
     {
       "genre": "Entertainment",
-      "summary": "Reddit has adopted a 'For You' feed model, emulating popular social media trends to enhance user engagement."
+      "summary": "Pokémon Legends: Z-A is offering a special promotion allowing users to receive unique Pokémon."
     },
     {
       "genre": "Science",
-      "summary": "Apple's newly envisioned foldable iPhone's hinge was reportedly designed using AI technology."
+      "summary": "Microsoft reveals its Azure cloud service's quarterly revenue, indicating a strong competitive position against AWS."
     },
     {
-      "genre": "Sports",
-      "summary": "The aftermath of a deadly train collision in Spain prompts national mourning as investigations into the tragic event continue."
+      "genre": "Law",
+      "summary": "Opposition parties in India plan to hold a mock Parliament to 'impeach' the Chief Election Commissioner amid ongoing electoral controversies."
     }
   ]
 }
