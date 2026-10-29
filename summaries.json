@@ -2,47 +2,39 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "The BJP criticized Congress for losing all seats in the Karnataka Legislative Council polls, raising questions about the party's leadership and strategy."
+      "summary": "The Israeli election remains undecided with nearly 90% of the votes counted, showing no clear winner as coalition talks begin."
     },
     {
       "genre": "Business",
-      "summary": "Jio shares surged 21% on their market debut, marking the company's strong entry as India's second-most valuable listed firm."
+      "summary": "Apple has introduced touchscreen laptops at higher prices, marking a significant shift from its previous MacBook policy."
     },
     {
       "genre": "Technology",
-      "summary": "Apple's new iPhone Duo faces criticism over screen durability issues, highlighting ongoing concerns about the foldable device's performance."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Amazon announced new features for its Echo Show 16 smart display, emphasizing user customization capabilities."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Kodiak secured a commercial deal to provide driverless trucks for public highways, moving towards an asset-light tech model."
+      "summary": "Upwind raised $400 million after opting against an acquisition offer; Microsoft disclosed Azure's revenue reaching $33.2 billion and its commercial revenue from OpenAI at $10 billion. Meanwhile, Google expanded its AI search ads globally."
     },
     {
       "genre": "World",
-      "summary": "A train collision in Spain resulted in at least 64 fatalities, with investigations pointing towards human error."
-    },
-    {
-      "genre": "World",
-      "summary": "Cyclone ‘Arnab’ caused significant damage and fatalities in India, prompting evacuations and emergency responses."
+      "summary": "Cyclone Arnab is expected to weaken into a depression, resulting in significant disruptions and destruction in India following its landfall."
     },
     {
       "genre": "Law",
-      "summary": "The Supreme Court is scrutinizing the use of voter registration forms in a contentious matter regarding deleted voters in Delhi."
+      "summary": "The Supreme Court of India is questioning the Election Commission about discrepancies in voter registration forms during the Delhi State Election."
     },
     {
-      "genre": "Law",
-      "summary": "Lawyers protested against an Allahabad High Court judge, leading to chaos and accusations of misconduct."
-    },
-    {
-      "genre": "Health",
-      "summary": "A lawsuit has been filed against OpenAI, alleging that the company's chatbot advised a user to stop taking seizure medication, contributing to a tragic outcome."
+      "genre": "Environment",
+      "summary": "Jio Platforms saw a significant share price increase on its market debut, highlighting investor confidence."
     },
     {
       "genre": "Entertainment",
-      "summary": "Dodge has launched a limited edition Charger in celebration of Mopar's 90th anniversary, with only 270 units produced."
+      "summary": "Reddit has adopted a 'For You' feed model, emulating popular social media trends to enhance user engagement."
+    },
+    {
+      "genre": "Science",
+      "summary": "Apple's newly envisioned foldable iPhone's hinge was reportedly designed using AI technology."
+    },
+    {
+      "genre": "Sports",
+      "summary": "The aftermath of a deadly train collision in Spain prompts national mourning as investigations into the tragic event continue."
     }
   ]
 }
