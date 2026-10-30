@@ -2,35 +2,35 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "No clear winner in Israel's election as voting results come in, with discussion surrounding party performance and potential coalitions."
-    },
-    {
-      "genre": "Business",
-      "summary": "Apple introduces a touchscreen MacBook Pro, significantly raising the pricing benchmark for laptops."
+      "summary": "Israel's recent election resulted in a deadlock, with no party achieving an overall majority, prompting speculation on potential coalition deals as Arab parties could emerge as key players."
     },
     {
       "genre": "Technology",
-      "summary": "Deepgram acquires Pipecat-maker Daily to enhance its voice AI capabilities, while Amazon updates Alexa for better shopping list management."
+      "summary": "Apple made several announcements regarding updates to its iPad Mini and macOS, including new features and specifications for its latest devices, amid ongoing discussions about improvements to touchscreen capabilities."
     },
     {
-      "genre": "World",
-      "summary": "A Russian attack on a Dnipro train station results in at least 13 deaths, amidst ongoing conflict in Ukraine."
+      "genre": "Health",
+      "summary": "A case where a University administrator received a religious exemption from using AI at work raises questions about the intersection of technology and belief."
     },
     {
       "genre": "Environment",
-      "summary": "Cyclone Arnab has impacted regions across India, causing flooding and prompting government responses."
+      "summary": "Evacuations were triggered along India's Sankosh River due to a glacial flood from Bhutan, following a glacial lake outburst that raised concerns for multiple districts in the region."
     },
     {
-      "genre": "Entertainment",
-      "summary": "Pokémon Legends: Z-A is offering a special promotion allowing users to receive unique Pokémon."
-    },
-    {
-      "genre": "Science",
-      "summary": "Microsoft reveals its Azure cloud service's quarterly revenue, indicating a strong competitive position against AWS."
+      "genre": "Business",
+      "summary": "Amazon's cloud revenue is booming; however, the company also reported a significant loss in free cash flow, raising concerns about its overall financial performance amid planned large expenditures."
     },
     {
       "genre": "Law",
-      "summary": "Opposition parties in India plan to hold a mock Parliament to 'impeach' the Chief Election Commissioner amid ongoing electoral controversies."
+      "summary": "The Supreme Court criticized the Ministry of Corporate Affairs for what it deemed an overreach in appointing staff to the National Company Law Tribunal, calling the intervention a 'hijack' of the tribunal's autonomy."
+    },
+    {
+      "genre": "World",
+      "summary": "Concerns were raised about potential U.S. military actions against Iran as Trump was briefed on options while U.S. transport planes landed in Israel amidst escalating tensions."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "Reviews and reports suggest that the recently released Trump Mobile phone has been critically assessed, revealing it to be largely modeled off an existing HTC device."
     }
   ]
 }
