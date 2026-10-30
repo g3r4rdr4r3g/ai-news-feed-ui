@@ -2,35 +2,31 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Israel's recent election resulted in a deadlock, with no party achieving an overall majority, prompting speculation on potential coalition deals as Arab parties could emerge as key players."
+      "summary": "PM Modi faced protests during an event in Gujarat, where slogans were raised against him. In response, Congress mocked the protesters' hopes of him stepping down."
     },
     {
       "genre": "Technology",
-      "summary": "Apple made several announcements regarding updates to its iPad Mini and macOS, including new features and specifications for its latest devices, amid ongoing discussions about improvements to touchscreen capabilities."
-    },
-    {
-      "genre": "Health",
-      "summary": "A case where a University administrator received a religious exemption from using AI at work raises questions about the intersection of technology and belief."
-    },
-    {
-      "genre": "Environment",
-      "summary": "Evacuations were triggered along India's Sankosh River due to a glacial flood from Bhutan, following a glacial lake outburst that raised concerns for multiple districts in the region."
-    },
-    {
-      "genre": "Business",
-      "summary": "Amazon's cloud revenue is booming; however, the company also reported a significant loss in free cash flow, raising concerns about its overall financial performance amid planned large expenditures."
-    },
-    {
-      "genre": "Law",
-      "summary": "The Supreme Court criticized the Ministry of Corporate Affairs for what it deemed an overreach in appointing staff to the National Company Law Tribunal, calling the intervention a 'hijack' of the tribunal's autonomy."
+      "summary": "Apple introduced its first touchscreen MacBook Pro along with its new display technology. In other tech news, Waymo is partnering with Toyota to test self-driving vehicles."
     },
     {
       "genre": "World",
-      "summary": "Concerns were raised about potential U.S. military actions against Iran as Trump was briefed on options while U.S. transport planes landed in Israel amidst escalating tensions."
+      "summary": "A helicopter crash in Joshimath, Uttarakhand, led to rescue operations after reports indicated six people onboard were feared dead."
+    },
+    {
+      "genre": "Health",
+      "summary": "Cyclone Arnab has caused significant disruption in Odisha, leading to the evacuation of over 55,000 people across multiple districts due to severe weather conditions."
+    },
+    {
+      "genre": "Law",
+      "summary": "Madras High Court issued a notice regarding a plea to investigate the background of a spokesperson for the Cockroach Janata Party, seeking to examine the person's nationality."
+    },
+    {
+      "genre": "Business",
+      "summary": "Amazon's CEO stated that Prime Video is on track to earn significant revenue, while AWS is positioned to become a $1 trillion business, focusing on AI cloud computing."
     },
     {
       "genre": "Entertainment",
-      "summary": "Reviews and reports suggest that the recently released Trump Mobile phone has been critically assessed, revealing it to be largely modeled off an existing HTC device."
+      "summary": "Updates on the Assassin’s Creed franchise reveal new game developments and features, while Motorola confirmed the launch of its upcoming flagship smartphone."
     }
   ]
 }
