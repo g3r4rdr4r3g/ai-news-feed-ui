@@ -2,39 +2,31 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "The U.S. cancels the G20 family photo due to objections from European countries about the inclusion of Russia's minister, Lavrov."
+      "summary": "Jammu and Kashmir Chief Minister Omar Abdullah marries journalist Nidhi Razdan."
     },
     {
       "genre": "Technology",
-      "summary": "Apple is addressing screen cracking issues with its new iPhone Duo, responding to reports from users who experienced problems shortly after purchase."
+      "summary": "Google's first data center satellite is active, generating poetry and achieving a significant milestone in AI and space-based computing."
     },
     {
       "genre": "Business",
-      "summary": "Salesforce continues its acquisition efforts with a $375 million deal for defense tech startup Rune, enhancing its Missionforce defense platform."
+      "summary": "Salesforce continues its mergers and acquisitions with a reported $375 million deal for defense tech startup Rune."
     },
     {
-      "genre": "Science",
-      "summary": "ISRO successfully launched the NVS-03 satellite, restoring the NavIC constellation and overcoming previous technical challenges."
-    },
-    {
-      "genre": "Law",
-      "summary": "The Supreme Court directs the Election Commission to investigate allegations of misuse regarding bulk voter list deletions in Uttar Pradesh."
-    },
-    {
-      "genre": "Environment",
-      "summary": "The escape of prisoners from Tamil Nadu's Theni jail has raised concerns about security protocols and resulted in administrative repercussions."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "November 6 marks the opening of the 12th Google Store, expanding access to Google's products."
+      "genre": "World",
+      "summary": "Iran's Supreme Leader calls for a geographically unrestricted response to threats, emphasizing a maximum response to any U.S. attacks."
     },
     {
       "genre": "Health",
-      "summary": "The Census 2027 will commence door-to-door enumeration starting January 25, 2027, emphasizing adjustments for poll-bound and snow-hit areas."
+      "summary": "Two foreigners die of suspected electrocution in a hotel pool in Bengaluru."
     },
     {
-      "genre": "Sports",
-      "summary": "The Galaxy S27 Ultra chipset developments indicate ongoing debates and updates on its features and specifications."
+      "genre": "Law",
+      "summary": "Congress counters Amit Shah's claims about sidelining Patel, reinforcing the legacy of influential historical figures in response to ongoing political accusations."
+    },
+    {
+      "genre": "Environment",
+      "summary": "A tragic classroom attack in Andhra Pradesh involves a man with a chainsaw who injures two schoolgirls."
     }
   ]
 }
