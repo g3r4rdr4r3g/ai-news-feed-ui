@@ -1,44 +1,24 @@
 {
   "summaries": [
     {
-      "genre": "World",
-      "summary": "Explosions have been reported on Iran’s Qeshm Island following U.S. strikes related to tensions in the Strait of Hormuz amid U.S. midterm elections."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Apple's uncertainty over the availability of its new foldable iPhone Duo continues as production constraints persist."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Google has expanded its AI project, Dreambeans, to India, supporting 13 languages and aimed at creating personal AI-generated stories."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Tech companies have dismantled a botnet consisting of 1.3 million TV boxes that were being used as proxies."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Apple is exploring ways to increase revenue through third-party AI applications."
-    },
-    {
-      "genre": "Science",
-      "summary": "A Kyiv startup has developed a device to exploit and intercept video feeds from Russian drones."
-    },
-    {
       "genre": "Politics",
-      "summary": "Delhi police are protesting against officer transfers, leading to disciplinary actions for participating in these demonstrations."
+      "summary": "The Democrats have gained significant control in the recent U.S. midterm elections, flipping key seats and moving closer to a Senate majority as national voter issues emerge."
     },
     {
-      "genre": "Health",
-      "summary": "The Supreme Court of India has permitted the use of green crackers for Diwali celebrations in 2026, allowing for a limited use on specified dates."
+      "genre": "Technology",
+      "summary": "Apple has released updates for its iOS 27.3, enhancing Siri AI with new languages and functionalities, while Windows 11 boasts performance improvements for PCs with 8GB of RAM. Additionally, companies are innovating in AI systems and exploring new uses for technology in space and cybersecurity."
     },
     {
       "genre": "Business",
-      "summary": "India's economy continues to grow despite geopolitical tensions, with plans for significant renewable energy expansions over the next decade."
+      "summary": "Funding news highlights the rise of microdrama streaming platforms in India, with EloElo securing significant investment from NBCUniversal."
+    },
+    {
+      "genre": "Law",
+      "summary": "Critical discussions around India's child policies arise as the Supreme Court declares laws penalizing having more than two children outdated due to falling fertility rates, while significant court rulings address political and cultural tensions surrounding public statements."
     },
     {
       "genre": "Entertainment",
-      "summary": "Google has added a new easter egg related to the game 'Zelda: Ocarina of Time' in its search engine."
+      "summary": "The announcement of the official subtitle for 'The Elder Scrolls VI' garners attention, alongside updates and new features for classic games like 'Sonic Racing' and 'Ocarina of Time'."
     }
   ]
 }
