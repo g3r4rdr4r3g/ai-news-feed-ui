@@ -2,23 +2,27 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "The Democrats have gained significant control in the recent U.S. midterm elections, flipping key seats and moving closer to a Senate majority as national voter issues emerge."
+      "summary": "The US midterm election results could influence India's geopolitical maneuvering more than India-US relations. With Democrats winning sweeping victories, discussions arise about the implications for both domestic and foreign policies."
     },
     {
       "genre": "Technology",
-      "summary": "Apple has released updates for its iOS 27.3, enhancing Siri AI with new languages and functionalities, while Windows 11 boasts performance improvements for PCs with 8GB of RAM. Additionally, companies are innovating in AI systems and exploring new uses for technology in space and cybersecurity."
+      "summary": "X announced a significant speed improvement in its updated web app, while Apple is reportedly cutting internal AI budgets. Additionally, the release of iOS 27.3 includes new features such as harm content checks and the end of the Siri AI waitlist."
     },
     {
       "genre": "Business",
-      "summary": "Funding news highlights the rise of microdrama streaming platforms in India, with EloElo securing significant investment from NBCUniversal."
+      "summary": "US sanctions were imposed on several Indian and Turkish firms for aiding Iran, which reveals ongoing tensions in international relations involving energy trade and compliance."
     },
     {
-      "genre": "Law",
-      "summary": "Critical discussions around India's child policies arise as the Supreme Court declares laws penalizing having more than two children outdated due to falling fertility rates, while significant court rulings address political and cultural tensions surrounding public statements."
+      "genre": "World",
+      "summary": "Israel’s President Herzog has accepted election results and begun talks for forming a new government, while Arab lawmakers are offering support to challenge current political dynamics in the country."
     },
     {
       "genre": "Entertainment",
-      "summary": "The announcement of the official subtitle for 'The Elder Scrolls VI' garners attention, alongside updates and new features for classic games like 'Sonic Racing' and 'Ocarina of Time'."
+      "summary": "Nithya Raman is currently in a tight race for the LA Mayor position, closely competing against Karen Bass, highlighting the significance of local elections."
+    },
+    {
+      "genre": "Games",
+      "summary": "Nintendo has released an update for The Legend of Zelda: Ocarina of Time, which includes various improvements, indicating ongoing support for this classic title."
     }
   ]
 }
