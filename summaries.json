@@ -1,28 +1,56 @@
 {
   "summaries": [
     {
-      "genre": "Politics",
-      "summary": "The US midterm election results could influence India's geopolitical maneuvering more than India-US relations. With Democrats winning sweeping victories, discussions arise about the implications for both domestic and foreign policies."
+      "genre": "Law",
+      "summary": "A Bengaluru man committed a massacre, killing his wife, mother-in-law, and several relatives over a marital dispute."
     },
     {
       "genre": "Technology",
-      "summary": "X announced a significant speed improvement in its updated web app, while Apple is reportedly cutting internal AI budgets. Additionally, the release of iOS 27.3 includes new features such as harm content checks and the end of the Siri AI waitlist."
+      "summary": "Apple provided instructions for turning off the glowing logo on the new MacBook Pro. Additionally, other articles discussed various reviews of Apple's touchscreen models and the iPhone Duo."
     },
     {
       "genre": "Business",
-      "summary": "US sanctions were imposed on several Indian and Turkish firms for aiding Iran, which reveals ongoing tensions in international relations involving energy trade and compliance."
+      "summary": "Palo Alto Networks is in negotiations to acquire AI security startup Clutch for $500 million, while The New York Times is reportedly in talks to buy movie platform Letterboxd for $330 million."
+    },
+    {
+      "genre": "Politics",
+      "summary": "India-born Nithya Raman won the Los Angeles mayoral election against a Democratic incumbent, marking a historic victory."
     },
     {
       "genre": "World",
-      "summary": "Israel’s President Herzog has accepted election results and begun talks for forming a new government, while Arab lawmakers are offering support to challenge current political dynamics in the country."
+      "summary": "Trump indicated that a significant peace deal between Russia and Ukraine could be forthcoming after meeting an envoy from Putin."
+    },
+    {
+      "genre": "Health",
+      "summary": "Delhi is preparing for another pollution season as air quality worsens, with levels reaching 'severe' conditions."
     },
     {
       "genre": "Entertainment",
-      "summary": "Nithya Raman is currently in a tight race for the LA Mayor position, closely competing against Karen Bass, highlighting the significance of local elections."
+      "summary": "A remake of 'The Legend of Zelda: Ocarina of Time' has been released and is compared to the original, showcasing stunning graphics."
     },
     {
-      "genre": "Games",
-      "summary": "Nintendo has released an update for The Legend of Zelda: Ocarina of Time, which includes various improvements, indicating ongoing support for this classic title."
+      "genre": "Technology",
+      "summary": "Airbnb announced plans to launch an AI travel agent in 2027 to assist travelers with trip planning and management."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Meta has introduced a feature allowing US users to video chat with their AI avatar, Muse."
+    },
+    {
+      "genre": "Technology",
+      "summary": "OpenAI launched a new cybersecurity model designed to enhance protection without compromising other companies."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Meta, Google, and TikTok are suing California's attorney general over a new law that would limit social media access for minors."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Serve Robotics is launching a new business aimed at becoming a leading provider of services for robotic technology."
+    },
+    {
+      "genre": "Technology",
+      "summary": "A vulnerability named '*sshole' has been identified that allows hackers to exploit Linux devices via SSH."
     }
   ]
 }
