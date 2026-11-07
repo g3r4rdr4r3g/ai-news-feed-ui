@@ -2,31 +2,39 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Trump announces Stephen Miller as his new Chief of Staff following a midterm defeat, igniting controversy regarding Miller's previous stance on immigration."
+      "summary": "PM Modi exchanged Diwali greetings with VP CP Radhakrishnan and emphasized celebrating the festival with soldiers."
     },
     {
       "genre": "Technology",
-      "summary": "Future iPhones are rumored to drop the Action Button, and Apple boasts over 100,000 apps optimized for its new iPhone Duo."
+      "summary": "Apple's rumored plan to remove the Action Button from future iPhone models suggests a major design change. Additionally, Apple has started delivering new iPad mini, MacBook Pros, and iMac."
     },
     {
       "genre": "Business",
-      "summary": "Sequoia Capital shuts down its Scouts program, indicating a shift in venture capital strategies, while a deal is noted where Crusoe sells its struggling Wyoming data center to Google."
+      "summary": "Sequoia's decision to shut down its Scouts program indicates a shift in venture capital strategies, while Crusoe's sale of a troubled data center project to Google highlights challenges in the AI infrastructure space."
+    },
+    {
+      "genre": "Law",
+      "summary": "Abhishek Banerjee reported a seventh attempt on his life, claiming responsibility lies with BJP supporters amidst ongoing political tensions."
     },
     {
       "genre": "World",
-      "summary": "A significant banking crisis in Paraguay immobilizes financial access for a large portion of the population after the president's impeachment."
+      "summary": "Trump confirmed US strikes on Iran’s Qeshm Island as new tensions escalate, with military actions and diplomatic efforts unfolding simultaneously."
     },
     {
       "genre": "Health",
-      "summary": "Delhi is facing severe air pollution issues as winter sets in, with strict measures and a poor air quality index reported."
+      "summary": "Incidents of violence were reported including an attack in Faridabad where an ex-Tech Mahindra head was shot dead over a parking dispute."
     },
     {
       "genre": "Entertainment",
-      "summary": "New developments on the Grand Theft Auto VI reveal custom in-game cars coming to life, accompanied by fresh screenshots ahead of the game's launch."
+      "summary": "The Pokémon TCG: Mega Evolution—Delta Reign Expansion has been released, generating excitement among fans."
     },
     {
       "genre": "Science",
-      "summary": "OpenAI launches a new cybersecurity-focused AI model after it successfully identifies numerous security flaws in major software."
+      "summary": "Hundreds of hacking tools were exposed online, raising security concerns in the tech community."
+    },
+    {
+      "genre": "Sports",
+      "summary": "A video surfaced capturing a fight between passengers on a Mumbai local train, which culminated in one person falling off."
     }
   ]
 }
