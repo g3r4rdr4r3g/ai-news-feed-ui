@@ -1,56 +1,32 @@
 {
   "summaries": [
     {
-      "genre": "Law",
-      "summary": "A Bengaluru man committed a massacre, killing his wife, mother-in-law, and several relatives over a marital dispute."
+      "genre": "Politics",
+      "summary": "Trump announces Stephen Miller as his new Chief of Staff following a midterm defeat, igniting controversy regarding Miller's previous stance on immigration."
     },
     {
       "genre": "Technology",
-      "summary": "Apple provided instructions for turning off the glowing logo on the new MacBook Pro. Additionally, other articles discussed various reviews of Apple's touchscreen models and the iPhone Duo."
+      "summary": "Future iPhones are rumored to drop the Action Button, and Apple boasts over 100,000 apps optimized for its new iPhone Duo."
     },
     {
       "genre": "Business",
-      "summary": "Palo Alto Networks is in negotiations to acquire AI security startup Clutch for $500 million, while The New York Times is reportedly in talks to buy movie platform Letterboxd for $330 million."
-    },
-    {
-      "genre": "Politics",
-      "summary": "India-born Nithya Raman won the Los Angeles mayoral election against a Democratic incumbent, marking a historic victory."
+      "summary": "Sequoia Capital shuts down its Scouts program, indicating a shift in venture capital strategies, while a deal is noted where Crusoe sells its struggling Wyoming data center to Google."
     },
     {
       "genre": "World",
-      "summary": "Trump indicated that a significant peace deal between Russia and Ukraine could be forthcoming after meeting an envoy from Putin."
+      "summary": "A significant banking crisis in Paraguay immobilizes financial access for a large portion of the population after the president's impeachment."
     },
     {
       "genre": "Health",
-      "summary": "Delhi is preparing for another pollution season as air quality worsens, with levels reaching 'severe' conditions."
+      "summary": "Delhi is facing severe air pollution issues as winter sets in, with strict measures and a poor air quality index reported."
     },
     {
       "genre": "Entertainment",
-      "summary": "A remake of 'The Legend of Zelda: Ocarina of Time' has been released and is compared to the original, showcasing stunning graphics."
+      "summary": "New developments on the Grand Theft Auto VI reveal custom in-game cars coming to life, accompanied by fresh screenshots ahead of the game's launch."
     },
     {
-      "genre": "Technology",
-      "summary": "Airbnb announced plans to launch an AI travel agent in 2027 to assist travelers with trip planning and management."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Meta has introduced a feature allowing US users to video chat with their AI avatar, Muse."
-    },
-    {
-      "genre": "Technology",
-      "summary": "OpenAI launched a new cybersecurity model designed to enhance protection without compromising other companies."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Meta, Google, and TikTok are suing California's attorney general over a new law that would limit social media access for minors."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Serve Robotics is launching a new business aimed at becoming a leading provider of services for robotic technology."
-    },
-    {
-      "genre": "Technology",
-      "summary": "A vulnerability named '*sshole' has been identified that allows hackers to exploit Linux devices via SSH."
+      "genre": "Science",
+      "summary": "OpenAI launches a new cybersecurity-focused AI model after it successfully identifies numerous security flaws in major software."
     }
   ]
 }
