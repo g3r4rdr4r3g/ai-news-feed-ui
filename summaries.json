@@ -2,39 +2,31 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "PM Modi exchanged Diwali greetings with VP CP Radhakrishnan and emphasized celebrating the festival with soldiers."
+      "summary": "Israeli President tasks opposition leader Gadi Eisenkot with forming a government, marking a potential shift in power away from Netanyahu."
     },
     {
       "genre": "Technology",
-      "summary": "Apple's rumored plan to remove the Action Button from future iPhone models suggests a major design change. Additionally, Apple has started delivering new iPad mini, MacBook Pros, and iMac."
-    },
-    {
-      "genre": "Business",
-      "summary": "Sequoia's decision to shut down its Scouts program indicates a shift in venture capital strategies, while Crusoe's sale of a troubled data center project to Google highlights challenges in the AI infrastructure space."
-    },
-    {
-      "genre": "Law",
-      "summary": "Abhishek Banerjee reported a seventh attempt on his life, claiming responsibility lies with BJP supporters amidst ongoing political tensions."
-    },
-    {
-      "genre": "World",
-      "summary": "Trump confirmed US strikes on Iran’s Qeshm Island as new tensions escalate, with military actions and diplomatic efforts unfolding simultaneously."
+      "summary": "OpenAI launches GPT-6 Cyber after identifying multiple cybersecurity flaws, signaling advancements in AI's role in cybersecurity."
     },
     {
       "genre": "Health",
-      "summary": "Incidents of violence were reported including an attack in Faridabad where an ex-Tech Mahindra head was shot dead over a parking dispute."
+      "summary": "Delhi is reported as the world's most polluted major city on the eve of Diwali, with air quality reaching severe levels."
+    },
+    {
+      "genre": "Business",
+      "summary": "Binance's CFO is departing to pursue a new venture following a significant $6.3 billion hack, highlighting ongoing challenges in the cryptocurrency industry."
+    },
+    {
+      "genre": "World",
+      "summary": "A tragic family incident in Poland shows a gunman, possibly a military cadet, who shot his family members, raising concerns regarding security."
     },
     {
       "genre": "Entertainment",
-      "summary": "The Pokémon TCG: Mega Evolution—Delta Reign Expansion has been released, generating excitement among fans."
+      "summary": "The nostalgic return of the original Sony Walkman headphones is announced, now updated with USB-C connectivity."
     },
     {
       "genre": "Science",
-      "summary": "Hundreds of hacking tools were exposed online, raising security concerns in the tech community."
-    },
-    {
-      "genre": "Sports",
-      "summary": "A video surfaced capturing a fight between passengers on a Mumbai local train, which culminated in one person falling off."
+      "summary": "NASA announces a new round of astronaut selections, inviting applications for future missions."
     }
   ]
 }
