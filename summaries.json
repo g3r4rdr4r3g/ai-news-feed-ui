@@ -2,31 +2,35 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "Israeli President tasks opposition leader Gadi Eisenkot with forming a government, marking a potential shift in power away from Netanyahu."
+      "summary": "Israeli President selects opposition candidate Gadi Eisenkot to form a government, indicating a setback for Netanyahu's administration."
     },
     {
       "genre": "Technology",
-      "summary": "OpenAI launches GPT-6 Cyber after identifying multiple cybersecurity flaws, signaling advancements in AI's role in cybersecurity."
+      "summary": "Nvidia CEO Jensen Huang's relationship with a suspected Chinese spy prompts an internal investigation, while Apple pushes for more ambitious AI strategies amid competitive pressures."
     },
     {
       "genre": "Health",
-      "summary": "Delhi is reported as the world's most polluted major city on the eve of Diwali, with air quality reaching severe levels."
-    },
-    {
-      "genre": "Business",
-      "summary": "Binance's CFO is departing to pursue a new venture following a significant $6.3 billion hack, highlighting ongoing challenges in the cryptocurrency industry."
-    },
-    {
-      "genre": "World",
-      "summary": "A tragic family incident in Poland shows a gunman, possibly a military cadet, who shot his family members, raising concerns regarding security."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "The nostalgic return of the original Sony Walkman headphones is announced, now updated with USB-C connectivity."
+      "summary": "Following Diwali celebrations, parts of Delhi see a spike in air pollution levels, categorized as 'severe' AQI, impacting residents."
     },
     {
       "genre": "Science",
-      "summary": "NASA announces a new round of astronaut selections, inviting applications for future missions."
+      "summary": "NASA seeks new astronauts for its Artemis program as it prepares for lunar missions, marking a significant step in its space exploration efforts."
+    },
+    {
+      "genre": "Crime",
+      "summary": "In Kolkata, a fatal incident involving a techie and his live-in partner highlights issues surrounding personal conflicts leading to violence."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "Epic Games reveals the drop rates for Fortnite's pirate tokens following community pressure, leading to discussions about fairness in the game."
+    },
+    {
+      "genre": "Business",
+      "summary": "Sequoia partners reportedly left surprised by Roelof Botha's recent appointment to SpaceX's board, signaling significant changes within the investment firm."
+    },
+    {
+      "genre": "Environment",
+      "summary": "Saudi Aramco building damaged in an attempted attack in Riyadh, raising concerns about security in the region."
     }
   ]
 }
