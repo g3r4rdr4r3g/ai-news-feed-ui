@@ -1,36 +1,32 @@
 {
   "summaries": [
     {
-      "genre": "Politics",
-      "summary": "Israeli President selects opposition candidate Gadi Eisenkot to form a government, indicating a setback for Netanyahu's administration."
+      "genre": "Sports",
+      "summary": "India maintained their series lead against New Zealand after their latest ODI match was abandoned due to rain, ending New Zealand's winning streak."
     },
     {
       "genre": "Technology",
-      "summary": "Nvidia CEO Jensen Huang's relationship with a suspected Chinese spy prompts an internal investigation, while Apple pushes for more ambitious AI strategies amid competitive pressures."
+      "summary": "Apple released updates for iOS and macOS, addressing various security issues. Additionally, Otter AI introduced capabilities to follow conversations in over 30 languages, while improvements to the Nintendo Switch and new music apps signify ongoing advancements in the tech sector."
     },
     {
-      "genre": "Health",
-      "summary": "Following Diwali celebrations, parts of Delhi see a spike in air pollution levels, categorized as 'severe' AQI, impacting residents."
-    },
-    {
-      "genre": "Science",
-      "summary": "NASA seeks new astronauts for its Artemis program as it prepares for lunar missions, marking a significant step in its space exploration efforts."
-    },
-    {
-      "genre": "Crime",
-      "summary": "In Kolkata, a fatal incident involving a techie and his live-in partner highlights issues surrounding personal conflicts leading to violence."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "Epic Games reveals the drop rates for Fortnite's pirate tokens following community pressure, leading to discussions about fairness in the game."
+      "genre": "Politics",
+      "summary": "Sonia Gandhi's decision to decline the Prime Minister position in 2004 is revisited in a new memoir, highlighting her political choices. Furthermore, California voters rejected a proposed billionaire tax amid intense lobbying from tech leaders."
     },
     {
       "genre": "Business",
-      "summary": "Sequoia partners reportedly left surprised by Roelof Botha's recent appointment to SpaceX's board, signaling significant changes within the investment firm."
+      "summary": "Three workers tragically died at Tata's iPhone parts factory in Tamil Nadu during a safety incident. In related corporate activities, Anthropic is reportedly moving forward with its IPO plans."
     },
     {
-      "genre": "Environment",
-      "summary": "Saudi Aramco building damaged in an attempted attack in Riyadh, raising concerns about security in the region."
+      "genre": "Entertainment",
+      "summary": "The highly anticipated remake of 'The Ocarina of Time' has received critical acclaim, setting Metacritic records and capturing the nostalgia of '90s gamers. 'GTA 6' presales are also exceeding expectations ahead of its launch."
+    },
+    {
+      "genre": "Health",
+      "summary": "Concerns over air quality in Delhi persist, with reports highlighting worsening pollution levels during festive seasons, prompting policymakers and residents to seek clearer information regarding its impacts."
+    },
+    {
+      "genre": "Law",
+      "summary": "Allegations of espionage and personal scandals involving Nvidia's CEO Jensen Huang have surfaced, leading to investigations and creating a media stir around his potential ties to known spies."
     }
   ]
 }
