@@ -1,32 +1,44 @@
 {
   "summaries": [
     {
-      "genre": "Sports",
-      "summary": "India maintained their series lead against New Zealand after their latest ODI match was abandoned due to rain, ending New Zealand's winning streak."
+      "genre": "Politics",
+      "summary": "U.S. Republicans blocked an impeachment bid against Secretary of Defense Pete Hegseth, with notable absences among Democrats contributing to the outcome."
     },
     {
       "genre": "Technology",
-      "summary": "Apple released updates for iOS and macOS, addressing various security issues. Additionally, Otter AI introduced capabilities to follow conversations in over 30 languages, while improvements to the Nintendo Switch and new music apps signify ongoing advancements in the tech sector."
+      "summary": "Microsoft's DLSS alternative has launched for the Xbox Ally X, performing well in handheld mode, while X introduces a new clipping feature to enhance influencer engagement."
     },
     {
-      "genre": "Politics",
-      "summary": "Sonia Gandhi's decision to decline the Prime Minister position in 2004 is revisited in a new memoir, highlighting her political choices. Furthermore, California voters rejected a proposed billionaire tax amid intense lobbying from tech leaders."
+      "genre": "Environment",
+      "summary": "In Delhi, the Central Pollution Control Board is considering raising monitoring limits after alarming air quality measurements, which indicate significant pollution levels post-Diwali."
     },
     {
       "genre": "Business",
-      "summary": "Three workers tragically died at Tata's iPhone parts factory in Tamil Nadu during a safety incident. In related corporate activities, Anthropic is reportedly moving forward with its IPO plans."
+      "summary": "The stock market has hit an eight-month high, leading to significant gains for investors amid a rally driven largely by banking and auto stocks."
     },
     {
-      "genre": "Entertainment",
-      "summary": "The highly anticipated remake of 'The Ocarina of Time' has received critical acclaim, setting Metacritic records and capturing the nostalgia of '90s gamers. 'GTA 6' presales are also exceeding expectations ahead of its launch."
+      "genre": "World",
+      "summary": "In Assam, multiple coaches of the Kolkata-Sairang Express derailed, prompting rescue operations amid injuries to several passengers."
     },
     {
       "genre": "Health",
-      "summary": "Concerns over air quality in Delhi persist, with reports highlighting worsening pollution levels during festive seasons, prompting policymakers and residents to seek clearer information regarding its impacts."
+      "summary": "Concerns arise after a soldier assigned to the President's Bodyguard was shot during a firecracker dispute, requiring surgery for the injuries sustained."
     },
     {
-      "genre": "Law",
-      "summary": "Allegations of espionage and personal scandals involving Nvidia's CEO Jensen Huang have surfaced, leading to investigations and creating a media stir around his potential ties to known spies."
+      "genre": "Science",
+      "summary": "X-energy has received approval from the U.S. Nuclear Regulatory Commission to construct its first small modular nuclear reactors in Texas."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "Hardik Pandya and Arshdeep Singh have completed a significant trade between IPL franchises, marking a notable shift ahead of the upcoming season."
+    },
+    {
+      "genre": "Science",
+      "summary": "OpenAI's acquisition of Odessia, a travel startup, is part of its expansion but specifics on future plans remain undisclosed."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Adobe is integrating AI agents and new features across its platforms including Photoshop and Premiere, enhancing creative workflows with automation."
     }
   ]
 }
