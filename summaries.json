@@ -1,44 +1,44 @@
 {
   "summaries": [
     {
-      "genre": "Politics",
-      "summary": "U.S. Republicans blocked an impeachment bid against Secretary of Defense Pete Hegseth, with notable absences among Democrats contributing to the outcome."
+      "genre": "World",
+      "summary": "Two policemen in Jammu and Kashmir were found dead after going missing, with reports stating they were shot, and their service weapons were missing."
     },
     {
       "genre": "Technology",
-      "summary": "Microsoft's DLSS alternative has launched for the Xbox Ally X, performing well in handheld mode, while X introduces a new clipping feature to enhance influencer engagement."
+      "summary": "Apple is closing its longstanding online community forum, known for customer support and DIY advice, after nearly three decades."
     },
     {
-      "genre": "Environment",
-      "summary": "In Delhi, the Central Pollution Control Board is considering raising monitoring limits after alarming air quality measurements, which indicate significant pollution levels post-Diwali."
-    },
-    {
-      "genre": "Business",
-      "summary": "The stock market has hit an eight-month high, leading to significant gains for investors amid a rally driven largely by banking and auto stocks."
-    },
-    {
-      "genre": "World",
-      "summary": "In Assam, multiple coaches of the Kolkata-Sairang Express derailed, prompting rescue operations amid injuries to several passengers."
+      "genre": "Technology",
+      "summary": "Nvidia's CEO, Jensen Huang, is facing potential ousting amidst controversy, including allegations of personal affairs and falling stock prices."
     },
     {
       "genre": "Health",
-      "summary": "Concerns arise after a soldier assigned to the President's Bodyguard was shot during a firecracker dispute, requiring surgery for the injuries sustained."
+      "summary": "Elon Musk expressed support for Jensen Huang amid the latter's controversies, raising questions about leadership in major tech companies."
     },
     {
       "genre": "Science",
-      "summary": "X-energy has received approval from the U.S. Nuclear Regulatory Commission to construct its first small modular nuclear reactors in Texas."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "Hardik Pandya and Arshdeep Singh have completed a significant trade between IPL franchises, marking a notable shift ahead of the upcoming season."
-    },
-    {
-      "genre": "Science",
-      "summary": "OpenAI's acquisition of Odessia, a travel startup, is part of its expansion but specifics on future plans remain undisclosed."
+      "summary": "Intel may struggle to compete against AMD's next-generation gaming CPUs as the latter's upcoming architecture promises significant improvements."
     },
     {
       "genre": "Technology",
-      "summary": "Adobe is integrating AI agents and new features across its platforms including Photoshop and Premiere, enhancing creative workflows with automation."
+      "summary": "Google Wallet is introducing a feature that allows digital keys for Google Home-compatible locks, enhancing smart home functionality."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "Grand Theft Auto VI has reportedly achieved over $1 billion in sales before its release, marking a significant milestone in gaming history."
+    },
+    {
+      "genre": "Politics",
+      "summary": "India has streamlined its visa application process by reducing the number of categories from 13 to 9 and simplifying application forms."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "Nintendo's remake of The Legend Of Zelda: Ocarina Of Time for the Switch 2 is performing exceptionally well in terms of sales."
+    },
+    {
+      "genre": "Politics",
+      "summary": "Ukraine-Russia peace talks continued with a focus on territorial disputes, although the discussions ended without a clear breakthrough."
     }
   ]
 }
