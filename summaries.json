@@ -1,44 +1,32 @@
 {
   "summaries": [
     {
+      "genre": "Politics",
+      "summary": "PM Modi participates in development celebration events and inaugurates a major metro line in Bengaluru, highlighting the area's importance in yoga."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Xbox announces new game updates and launches a social network for health data sharing, reflecting the gaming and tech innovations."
+    },
+    {
+      "genre": "Business",
+      "summary": "Democrats initiate an investigation into Nvidia amid turmoil regarding the CEO's departure, while discussions regarding India's trade relations with the EU emerge."
+    },
+    {
       "genre": "World",
-      "summary": "Two policemen in Jammu and Kashmir were found dead after going missing, with reports stating they were shot, and their service weapons were missing."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Apple is closing its longstanding online community forum, known for customer support and DIY advice, after nearly three decades."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Nvidia's CEO, Jensen Huang, is facing potential ousting amidst controversy, including allegations of personal affairs and falling stock prices."
+      "summary": "A tragic traffic accident in Fujairah, UAE causes multiple casualties, underscoring road safety concerns."
     },
     {
       "genre": "Health",
-      "summary": "Elon Musk expressed support for Jensen Huang amid the latter's controversies, raising questions about leadership in major tech companies."
+      "summary": "A major Microsoft outage disrupts services worldwide, affecting businesses and government operations."
     },
     {
       "genre": "Science",
-      "summary": "Intel may struggle to compete against AMD's next-generation gaming CPUs as the latter's upcoming architecture promises significant improvements."
-    },
-    {
-      "genre": "Technology",
-      "summary": "Google Wallet is introducing a feature that allows digital keys for Google Home-compatible locks, enhancing smart home functionality."
+      "summary": "Google unveils its upgraded Search engine, promising improved responses to complex queries, driven by the latest AI advancements."
     },
     {
       "genre": "Entertainment",
-      "summary": "Grand Theft Auto VI has reportedly achieved over $1 billion in sales before its release, marking a significant milestone in gaming history."
-    },
-    {
-      "genre": "Politics",
-      "summary": "India has streamlined its visa application process by reducing the number of categories from 13 to 9 and simplifying application forms."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "Nintendo's remake of The Legend Of Zelda: Ocarina Of Time for the Switch 2 is performing exceptionally well in terms of sales."
-    },
-    {
-      "genre": "Politics",
-      "summary": "Ukraine-Russia peace talks continued with a focus on territorial disputes, although the discussions ended without a clear breakthrough."
+      "summary": "Sonia Gandhi's memoir draws attention to her political history, while details about significant upcoming video game releases emerge."
     }
   ]
 }
