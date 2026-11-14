@@ -1,32 +1,28 @@
 {
   "summaries": [
     {
-      "genre": "Politics",
-      "summary": "PM Modi participates in development celebration events and inaugurates a major metro line in Bengaluru, highlighting the area's importance in yoga."
+      "genre": "World",
+      "summary": "At least 24 people have died in a bus-truck collision near Kaziranga National Park in Assam, India, with expectations that the death toll may increase as rescue operations continue."
     },
     {
       "genre": "Technology",
-      "summary": "Xbox announces new game updates and launches a social network for health data sharing, reflecting the gaming and tech innovations."
+      "summary": "Apple's HomeView relies significantly on the iPhone, and the new Kindle Colorsoft has been introduced as a premium e-reader. Other technological advancements include updates for Apple TV and disruptions affecting Microsoft services."
+    },
+    {
+      "genre": "Politics",
+      "summary": "The U.S. government grounded flights nationwide due to communication issues affecting air traffic control, sparking significant disruptions in air travel."
     },
     {
       "genre": "Business",
-      "summary": "Democrats initiate an investigation into Nvidia amid turmoil regarding the CEO's departure, while discussions regarding India's trade relations with the EU emerge."
+      "summary": "With the departure of Nvidia's CEO Huang, the AI startup funding landscape is expected to contract, and LangChain has reached a $3 billion valuation amidst growing interest in AI."
     },
     {
-      "genre": "World",
-      "summary": "A tragic traffic accident in Fujairah, UAE causes multiple casualties, underscoring road safety concerns."
-    },
-    {
-      "genre": "Health",
-      "summary": "A major Microsoft outage disrupts services worldwide, affecting businesses and government operations."
-    },
-    {
-      "genre": "Science",
-      "summary": "Google unveils its upgraded Search engine, promising improved responses to complex queries, driven by the latest AI advancements."
+      "genre": "Law",
+      "summary": "The Indian ambassador responded to remarks made by the U.S. Commission on International Religious Freedom regarding Indian activist Sharjeel Imam, rejecting the commentary as politically motivated."
     },
     {
       "genre": "Entertainment",
-      "summary": "Sonia Gandhi's memoir draws attention to her political history, while details about significant upcoming video game releases emerge."
+      "summary": "Original creators of Grand Theft Auto express disappointment that they have not been able to play GTA 6, as anticipation builds for its release."
     }
   ]
 }
