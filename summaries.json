@@ -1,28 +1,44 @@
 {
   "summaries": [
     {
-      "genre": "World",
-      "summary": "At least 24 people have died in a bus-truck collision near Kaziranga National Park in Assam, India, with expectations that the death toll may increase as rescue operations continue."
+      "genre": "Weather",
+      "summary": "Tamil Nadu is unlikely to see significant impacts from a severe cyclonic storm brewing over the Bay of Bengal, according to forecasts from the Indian Meteorological Department."
+    },
+    {
+      "genre": "Science",
+      "summary": "The Space Shuttle Endeavour has found a new home at the California Science Center, with an opening event attended by astronauts and community members, marking the shuttle's transition to a new chapter."
     },
     {
       "genre": "Technology",
-      "summary": "Apple's HomeView relies significantly on the iPhone, and the new Kindle Colorsoft has been introduced as a premium e-reader. Other technological advancements include updates for Apple TV and disruptions affecting Microsoft services."
+      "summary": "Nvidia's security chief's departure and ongoing issues regarding CEO Jensen Huang's relationships and security leaks have raised questions about corporate vulnerabilities, amid a petition for Huang's reinstatement."
+    },
+    {
+      "genre": "Health",
+      "summary": "Brain-computer interfaces have enabled patients with A.L.S. to communicate more effectively, restoring voices for those who have lost the ability to speak."
     },
     {
       "genre": "Politics",
-      "summary": "The U.S. government grounded flights nationwide due to communication issues affecting air traffic control, sparking significant disruptions in air travel."
-    },
-    {
-      "genre": "Business",
-      "summary": "With the departure of Nvidia's CEO Huang, the AI startup funding landscape is expected to contract, and LangChain has reached a $3 billion valuation amidst growing interest in AI."
-    },
-    {
-      "genre": "Law",
-      "summary": "The Indian ambassador responded to remarks made by the U.S. Commission on International Religious Freedom regarding Indian activist Sharjeel Imam, rejecting the commentary as politically motivated."
+      "summary": "In Uttarakhand, a Congress MLA disrupted an event attended by the Chief Minister by throwing a microphone, highlighting tensions ahead of upcoming elections."
     },
     {
       "genre": "Entertainment",
-      "summary": "Original creators of Grand Theft Auto express disappointment that they have not been able to play GTA 6, as anticipation builds for its release."
+      "summary": "Grand Theft Auto VI has reportedly sold over $1 billion in preorders, yet concerns persist over its impact on console sales amid rising pricing pressures."
+    },
+    {
+      "genre": "Transportation",
+      "summary": "Two planes collided at Miami International Airport in a runway incident that raised safety concerns and drew media attention."
+    },
+    {
+      "genre": "Environment",
+      "summary": "Delhi's air quality remains severely poor, as the city struggles with high pollution levels and adverse weather conditions expected to continue."
+    },
+    {
+      "genre": "World",
+      "summary": "Southeast Asian leaders are convening amidst ongoing trade disruptions, highlighting the geopolitical tensions and economic impacts influenced by recent foreign visits."
+    },
+    {
+      "genre": "Technology",
+      "summary": "Google's new AI glasses face privacy regulations as the company attempts to address concerns associated with wearable technology."
     }
   ]
 }
