@@ -1,44 +1,28 @@
 {
   "summaries": [
     {
-      "genre": "Weather",
-      "summary": "Tamil Nadu is unlikely to see significant impacts from a severe cyclonic storm brewing over the Bay of Bengal, according to forecasts from the Indian Meteorological Department."
-    },
-    {
-      "genre": "Science",
-      "summary": "The Space Shuttle Endeavour has found a new home at the California Science Center, with an opening event attended by astronauts and community members, marking the shuttle's transition to a new chapter."
+      "genre": "Politics",
+      "summary": "India’s relation with ASEAN is highlighted as a significant element of PM Modi's Act East Policy ahead of his visit to the Philippines for the Asean and Quad summits."
     },
     {
       "genre": "Technology",
-      "summary": "Nvidia's security chief's departure and ongoing issues regarding CEO Jensen Huang's relationships and security leaks have raised questions about corporate vulnerabilities, amid a petition for Huang's reinstatement."
-    },
-    {
-      "genre": "Health",
-      "summary": "Brain-computer interfaces have enabled patients with A.L.S. to communicate more effectively, restoring voices for those who have lost the ability to speak."
-    },
-    {
-      "genre": "Politics",
-      "summary": "In Uttarakhand, a Congress MLA disrupted an event attended by the Chief Minister by throwing a microphone, highlighting tensions ahead of upcoming elections."
-    },
-    {
-      "genre": "Entertainment",
-      "summary": "Grand Theft Auto VI has reportedly sold over $1 billion in preorders, yet concerns persist over its impact on console sales amid rising pricing pressures."
-    },
-    {
-      "genre": "Transportation",
-      "summary": "Two planes collided at Miami International Airport in a runway incident that raised safety concerns and drew media attention."
-    },
-    {
-      "genre": "Environment",
-      "summary": "Delhi's air quality remains severely poor, as the city struggles with high pollution levels and adverse weather conditions expected to continue."
+      "summary": "Apple has launched a new app designed to study how people utilize AI in health, alongside other tech developments including a significant fund raising by European venture capital firm Plural to invest in innovative technology."
     },
     {
       "genre": "World",
-      "summary": "Southeast Asian leaders are convening amidst ongoing trade disruptions, highlighting the geopolitical tensions and economic impacts influenced by recent foreign visits."
+      "summary": "Significant diplomatic meetings involving Trump, Xi, and Putin are anticipated, leading to discussions reminiscent of the historical Yalta Conference."
     },
     {
-      "genre": "Technology",
-      "summary": "Google's new AI glasses face privacy regulations as the company attempts to address concerns associated with wearable technology."
+      "genre": "Health",
+      "summary": "A new app by Apple is intended to assess the use of AI for health, aiming to improve the effectiveness of AI health tools."
+    },
+    {
+      "genre": "Environment",
+      "summary": "Cyclone Akvan is projected to approach Andhra coast soon, prompting warnings and preparation measures across Tamil Nadu, Andhra, and Odisha."
+    },
+    {
+      "genre": "Entertainment",
+      "summary": "The arrival of U.K.'s Prince William and Princess Kate in Mumbai for a three-day trip is marked by a royal welcome as they participate in various events."
     }
   ]
 }
