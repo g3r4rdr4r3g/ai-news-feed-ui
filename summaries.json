@@ -2,27 +2,31 @@
   "summaries": [
     {
       "genre": "Politics",
-      "summary": "India’s relation with ASEAN is highlighted as a significant element of PM Modi's Act East Policy ahead of his visit to the Philippines for the Asean and Quad summits."
+      "summary": "The ASEAN-India Summit is currently underway with PM Modi participating and discussions on a potential Quad meeting following President Trump's arrival."
     },
     {
       "genre": "Technology",
-      "summary": "Apple has launched a new app designed to study how people utilize AI in health, alongside other tech developments including a significant fund raising by European venture capital firm Plural to invest in innovative technology."
+      "summary": "Apple is implementing new security controls for Macs and testing usage limits for Siri, while also revamping its approach to video podcasts and face-unlocking features for the iPhone Duo."
+    },
+    {
+      "genre": "Business",
+      "summary": "AI cybersecurity startup Corma has reached a $1 billion valuation shortly after introduction, while Uber confirmed a major data breach involving driver's license info."
+    },
+    {
+      "genre": "Law",
+      "summary": "The Supreme Court has suspended life sentences for two convicts in the Bilkis Bano rape case, leading to widespread concern and calls for action from Bano herself."
     },
     {
       "genre": "World",
-      "summary": "Significant diplomatic meetings involving Trump, Xi, and Putin are anticipated, leading to discussions reminiscent of the historical Yalta Conference."
+      "summary": "A cyclonic storm named Akvan is prompting alerts in Andhra Pradesh and Odisha, with expectations it may intensify into a severe cyclone."
     },
     {
       "genre": "Health",
-      "summary": "A new app by Apple is intended to assess the use of AI for health, aiming to improve the effectiveness of AI health tools."
-    },
-    {
-      "genre": "Environment",
-      "summary": "Cyclone Akvan is projected to approach Andhra coast soon, prompting warnings and preparation measures across Tamil Nadu, Andhra, and Odisha."
+      "summary": "A tragic bus accident in Uttarakhand has resulted in six fatalities and multiple injuries, causing public and governmental outcry."
     },
     {
       "genre": "Entertainment",
-      "summary": "The arrival of U.K.'s Prince William and Princess Kate in Mumbai for a three-day trip is marked by a royal welcome as they participate in various events."
+      "summary": "Pre-orders for 'Grand Theft Auto VI' have surpassed $1.4 billion, indicating massive anticipation and market potential for the game."
     }
   ]
 }
